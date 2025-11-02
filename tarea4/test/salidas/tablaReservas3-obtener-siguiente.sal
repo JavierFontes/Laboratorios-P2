@@ -1,0 +1,44 @@
+1>Tabla de reservas con cantidad estimada 10 creada.
+2>Socio de ci 12345678 creado exitosamente.
+3>4>5>Reserva de libro de isbn 111111111 a socio 12345678 creada exitosamente.
+6>Se insertó la reserva para el libro de isbn (111111111) en la tabla reservas.
+7>Socio de ci 12345677 creado exitosamente.
+8>9>10>Reserva de libro de isbn 222222222 a socio 12345677 creada exitosamente.
+11>Se insertó la reserva para el libro de isbn (222222222) en la tabla reservas.
+12>Socio de ci 23456789 creado exitosamente.
+13>14>15>Reserva de libro de isbn 333333333 a socio 23456789 creada exitosamente.
+16>Se insertó la reserva para el libro de isbn (333333333) en la tabla reservas.
+17>Cola de prioridad para el libro de isbn 111111111:
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+18>Cola de prioridad para el libro de isbn 222222222:
+Reserva de libro Jazz por Ana Martinez.
+19>Cola de prioridad para el libro de isbn 333333333:
+Reserva de libro La ratesa por Lucia Perez.
+20>La reserva prioritaria para el libro de isbn 111111111 es:
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+21>La reserva prioritaria para el libro de isbn 222222222 es:
+Reserva de libro Jazz por Ana Martinez.
+22>La reserva prioritaria para el libro de isbn 333333333 es:
+Reserva de libro La ratesa por Lucia Perez.
+23>Socio de ci 34567890 creado exitosamente.
+24>25>26>Reserva de libro de isbn 222222222 a socio 34567890 creada exitosamente.
+27>Se insertó la reserva para el libro de isbn (222222222) en la tabla reservas.
+28>Socio de ci 45678912 creado exitosamente.
+29>30>31>Reserva de libro de isbn 333333333 a socio 45678912 creada exitosamente.
+32>Se insertó la reserva para el libro de isbn (333333333) en la tabla reservas.
+33>Cola de prioridad para el libro de isbn 111111111:
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+34>Cola de prioridad para el libro de isbn 222222222:
+Reserva de libro Jazz por Juan Diaz.
+Reserva de libro Jazz por Ana Martinez.
+35>Cola de prioridad para el libro de isbn 333333333:
+Reserva de libro La ratesa por Lucia Perez.
+Reserva de libro La ratesa por Pedro Flores.
+36>La reserva prioritaria para el libro de isbn 111111111 es:
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+37>La reserva prioritaria para el libro de isbn 222222222 es:
+Reserva de libro Jazz por Juan Diaz.
+38>La reserva prioritaria para el libro de isbn 333333333 es:
+Reserva de libro La ratesa por Lucia Perez.
+39>Se liberó la tabla reservas.
+40>Fin.

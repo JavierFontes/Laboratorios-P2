@@ -1,0 +1,62 @@
+crearAGGeneros
+insertarAGGeneros -1 1 Terror
+insertarAGGeneros 1 11 Historica
+insertarAGGeneros 1 12 Comedia
+imprimirAGGeneros
+cantidadAGGeneros
+alturaAGGeneros
+insertarAGGeneros 11 111 Historica
+insertarAGGeneros 11 112 Terror
+insertarAGGeneros 11 113 Comedia
+insertarAGGeneros 12 121 Accion
+insertarAGGeneros 12 122 Terror
+insertarAGGeneros 12 123 Historica
+imprimirAGGeneros
+cantidadAGGeneros
+alturaAGGeneros
+insertarAGGeneros 111 1111 Terror
+insertarAGGeneros 111 1112 Drama
+insertarAGGeneros 111 1113 Terror
+insertarAGGeneros 111 1114 Drama
+cantidadAGGeneros
+alturaAGGeneros
+insertarAGGeneros 112 1121 Comedia
+insertarAGGeneros 112 1122 Historica
+insertarAGGeneros 112 1123 Comedia
+insertarAGGeneros 112 1124 Accion
+cantidadAGGeneros
+alturaAGGeneros
+insertarAGGeneros 113 1131 Terror
+insertarAGGeneros 113 1132 Drama
+insertarAGGeneros 113 1133 Terror
+insertarAGGeneros 113 1134 Historica
+cantidadAGGeneros
+alturaAGGeneros
+insertarAGGeneros 121 1211 Historica
+insertarAGGeneros 121 1212 Drama
+insertarAGGeneros 121 1213 Historica
+insertarAGGeneros 121 1214 Terror
+cantidadAGGeneros
+alturaAGGeneros
+insertarAGGeneros 122 1221 Drama
+insertarAGGeneros 122 1222 Historica
+insertarAGGeneros 122 1223 Comedia
+insertarAGGeneros 122 1224 Drama
+cantidadAGGeneros
+alturaAGGeneros
+insertarAGGeneros 123 1231 Drama
+insertarAGGeneros 123 1232 Terror
+insertarAGGeneros 123 1233 Accion
+insertarAGGeneros 123 1234 Drama
+cantidadAGGeneros
+alturaAGGeneros
+imprimirAGGeneros
+removerGeneroAGGeneros 123
+cantidadAGGeneros
+imprimirAGGeneros
+removerGeneroAGGeneros 12
+cantidadAGGeneros
+imprimirAGGeneros
+alturaAGGeneros
+liberarAGGeneros
+Fin

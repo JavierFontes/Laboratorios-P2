@@ -1,0 +1,25 @@
+1>2>3>El isbn del libro es: 316769177
+4>El título del libro es: El guardián en el centeno
+5>El nombre del autor del libro es: J.D.
+6>El apellido del autor del libro es: Salinger
+7>La descripción del libro es: Holden narra sus días tras ser expulsado del colegio, en busca de sentido
+8>La fecha de edición del libro es: 16/7/1951
+9>El id del género del libro es: 1
+10>Función 'liberarTLibro' ejecutada exitosamente.
+11>12>13>El isbn del libro es: 140003446
+14>El título del libro es: Jazz
+15>El nombre del autor del libro es: Toni
+16>El apellido del autor del libro es: Morrison
+17>La descripción del libro es: Una historia de amor y crimen en el Harlem de los años 20
+18>La fecha de edición del libro es: 1/5/1992
+19>El id del género del libro es: 3
+20>Función 'liberarTLibro' ejecutada exitosamente.
+21>22>23>El isbn del libro es: 880619315
+24>El título del libro es: La soledad de los números primos
+25>El nombre del autor del libro es: Paolo
+26>El apellido del autor del libro es: Giordano
+27>La descripción del libro es: Dos almas heridas incapaces de coincidir en el amor
+28>La fecha de edición del libro es: 1/1/2008
+29>El id del género del libro es: 1
+30>Función 'liberarTLibro' ejecutada exitosamente.
+31>Fin.

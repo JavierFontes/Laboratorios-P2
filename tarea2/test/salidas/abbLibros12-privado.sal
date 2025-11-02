@@ -1,0 +1,104 @@
+1>#  Se crea ABBLibros vacío.
+2>Se ejecutó crearTABBLibrosVacio exitosamente.
+3>#  Se crea Libro con ISBN 12.
+4>5>6>#  Se inserta Libro en ABBLibros.
+7>Se insertó el libro con ISBN 12 al árbol.
+8>#  Se crea Libro con ISBN 25.
+9>10>11>#  Se inserta Libro en ABBLibros.
+12>Se insertó el libro con ISBN 25 al árbol.
+13>#  Se crea Libro con ISBN 18.
+14>15>16>#  Se inserta Libro en ABBLibros.
+17>Se insertó el libro con ISBN 18 al árbol.
+18>#  Se crea Libro con ISBN 29.
+19>20>21>#  Se inserta Libro en ABBLibros.
+22>Se insertó el libro con ISBN 29 al árbol.
+23>#  Se crea Libro con ISBN 35.
+24>25>26>#  Se inserta Libro en ABBLibros.
+27>Se insertó el libro con ISBN 35 al árbol.
+28>#  Se crea Libro con ISBN 17.
+29>30>31>#  Se inserta Libro en ABBLibros.
+32>Se insertó el libro con ISBN 17 al árbol.
+33>#  Se crea Libro con ISBN 23.
+34>35>36>#  Se inserta Libro en ABBLibros.
+37>Se insertó el libro con ISBN 23 al árbol.
+38>#  Se crea Libro con ISBN 45.
+39>40>41>#  Se inserta Libro en ABBLibros.
+42>Se insertó el libro con ISBN 45 al árbol.
+43>#  Se crea Libro con ISBN 9.
+44>45>46>#  Se inserta Libro en ABBLibros.
+47>Se insertó el libro con ISBN 9 al árbol.
+48>#  Se crea Libro con ISBN 5.
+49>50>51>#  Se inserta Libro en ABBLibros.
+52>Se insertó el libro con ISBN 5 al árbol.
+53>#  Se crea Libro con ISBN 31.
+54>55>56>#  Se inserta Libro en ABBLibros.
+57>Se insertó el libro con ISBN 31 al árbol.
+58>#  Se crea Libro con ISBN 42.
+59>60>61>#  Se inserta Libro en ABBLibros.
+62>Se insertó el libro con ISBN 42 al árbol.
+63>#  Se crea Libro con ISBN 7.
+64>65>66>#  Se inserta Libro en ABBLibros.
+67>Se insertó el libro con ISBN 7 al árbol.
+68>#  Se crea Libro con ISBN 20.
+69>70>71>#  Se inserta Libro en ABBLibros.
+72>Se insertó el libro con ISBN 20 al árbol.
+73>#  Se obtiene la altura 6 del árbol.
+74>La altura del arbol es 6.
+75>#  Se verifica que NO existe Libro con ISBN 6.
+76>El libro con ISBN 6 NO pertenece al árbol.
+77>#  Se verifica si existe Libro con ISBN 35.
+78>El libro con ISBN 35 pertenece al árbol.
+79>#  Se verifica que existe Libro con ISBN 45.
+80>El libro con ISBN 45 pertenece al árbol.
+81>#  Se verifica que existe Libro con ISBN 18.
+82>El libro con ISBN 18 pertenece al árbol.
+83>#  Se verifica que NO existe Libro con ISBN 16.
+84>El libro con ISBN 16 NO pertenece al árbol.
+85>#  Se obtiene el ISBN máximo 45 del árbol.
+86>El mayor ISBN en el árbol es 45.
+87>#  Se obtiene la cantidad de 14 elementos del árbol.
+88>La cantidad de libros en el árbol es 14.
+89>#  Se remueve Libro con ISBN 35.
+90>El libro con ISBN 35 se removió del árbol.
+91>#  Se remueve Libro con ISBN 45.
+92>El libro con ISBN 45 se removió del árbol.
+93>#  Se remueve Libro con ISBN 12.
+94>El libro con ISBN 12 se removió del árbol.
+95>#  Se remueve Libro con ISBN 42.
+96>El libro con ISBN 42 se removió del árbol.
+97>#  Se obtiene la cantidad de 10 elementos del árbol.
+98>La cantidad de libros en el árbol es 10.
+99>#  Se obtiene la altura 5 actualizada del árbol.
+100>La altura del arbol es 5.
+101>#  Se verifica que existe Libro con ISBN 18.
+102>El libro con ISBN 18 pertenece al árbol.
+103>#  Se verifica NO existe Libro con ISBN 45.
+104>El libro con ISBN 45 NO pertenece al árbol.
+105>#  Se obtiene el ISBN máximo 31 actualizado del árbol.
+106>El mayor ISBN en el árbol es 31.
+107>#  Se obtiene el quinto Libro El guardián en el centeno del árbol según el recorrido inorden.
+108>Libro nro 5 del abb libros:
+Libro 18
+Título: El guardián en el centeno
+Autor: J.D. Salinger
+Descripción: Holden narra sus días tras ser expulsado del colegio, en busca de sentido
+Género: 1
+Fecha de edición: 16/7/1951
+109>#  Se obtiene el septimo Libro Orgullo y prejuicio del árbol según el recorrido inorden.
+110>Libro nro 7 del abb libros:
+Libro 23
+Título: Orgullo y prejuicio
+Autor: Jane Austen
+Descripción: Elizabeth Bennet enfrenta el amor y los prejuicios de su época
+Género: 1
+Fecha de edición: 28/1/1813
+111>#  Se obtiene el primer Libro El resplandor del árbol según el recorrido inorden.
+112>Libro nro 1 del abb libros:
+Libro 5
+Título: El resplandor
+Autor: Stephen King
+Descripción: Una familia se aísla en un hotel donde fuerzas sobrenaturales influyen en la mente del padre
+Género: 2
+Fecha de edición: 1/9/1977
+113>#  Se libera la memoria del árbol.
+114>115>Fin.

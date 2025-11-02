@@ -1,0 +1,10 @@
+crearLSESocios
+imprimirLSESocios
+liberarLSESocios
+crearLSESocios
+crearSocio 12345678 Mickey Mouse 18 11 1928
+agregarGeneroFavoritoSocio 1
+insertarLSESocios
+imprimirLSESocios
+liberarLSESocios
+Fin

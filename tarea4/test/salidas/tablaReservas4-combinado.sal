@@ -1,0 +1,43 @@
+1>Tabla de reservas con cantidad estimada 10 creada.
+2>Se liberó la tabla reservas.
+3>Tabla de reservas con cantidad estimada 10 creada.
+4>Socio de ci 12345678 creado exitosamente.
+5>6>7>Reserva de libro de isbn 111111111 a socio 12345678 creada exitosamente.
+8>Se insertó la reserva para el libro de isbn (111111111) en la tabla reservas.
+9>Socio de ci 12345677 creado exitosamente.
+10>11>12>Reserva de libro de isbn 222222222 a socio 12345677 creada exitosamente.
+13>Se insertó la reserva para el libro de isbn (222222222) en la tabla reservas.
+14>Cola de prioridad para el libro de isbn 111111111:
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+15>Cola de prioridad para el libro de isbn 222222222:
+Reserva de libro Jazz por Ana Martinez.
+16>La reserva del socio 12345678 y libro 111111111, esta en la tabla.
+17>La reserva del socio 12345677 y libro 222222222, esta en la tabla.
+18>Socio de ci 23456789 creado exitosamente.
+19>20>21>Reserva de libro de isbn 123456780 a socio 23456789 creada exitosamente.
+22>Se insertó la reserva para el libro de isbn (123456780) en la tabla reservas.
+23>Socio de ci 23456799 creado exitosamente.
+24>25>26>Reserva de libro de isbn 123456790 a socio 23456799 creada exitosamente.
+27>Se insertó la reserva para el libro de isbn (123456790) en la tabla reservas.
+28>Cola de prioridad para el libro de isbn 123456780:
+Reserva de libro La ratesa por Lucia Perez.
+29>Cola de prioridad para el libro de isbn 123456790:
+Reserva de libro Lo bello y lo triste por Carla Ramirez.
+30>Socio de ci 34567890 creado exitosamente.
+31>32>33>Reserva de libro de isbn 123456790 a socio 34567890 creada exitosamente.
+34>Se insertó la reserva para el libro de isbn (123456790) en la tabla reservas.
+35>Socio de ci 45678912 creado exitosamente.
+36>37>38>Reserva de libro de isbn 123456780 a socio 45678912 creada exitosamente.
+39>Se insertó la reserva para el libro de isbn (123456780) en la tabla reservas.
+40>La reserva prioritaria para el libro de isbn 123456780 es:
+Reserva de libro La ratesa por Pedro Flores.
+41>La reserva prioritaria para el libro de isbn 123456790 es:
+Reserva de libro Lo bello y lo triste por Juan Diaz.
+42>La reserva del socio 45678912 y libro 123456780, esta en la tabla.
+43>La reserva del socio 34567890 y libro 123456790, esta en la tabla.
+44>La reserva del socio 1 y libro 111111111, NO esta en la tabla.
+45>La reserva del socio 2 y libro 222222222, NO esta en la tabla.
+46>La reserva del socio 3 y libro 111111111, NO esta en la tabla.
+47>La reserva del socio 4 y libro 222222222, NO esta en la tabla.
+48>Se liberó la tabla reservas.
+49>Fin.

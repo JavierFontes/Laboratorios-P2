@@ -1,0 +1,17 @@
+crearBiblioteca
+crearSocio 12345678 Jim Dear 10 03 2004
+agregarSocioBiblioteca
+crearSocio 23456789 Lucia Perez 10 03 2010
+agregarSocioBiblioteca
+crearFecha 05/06/1967
+crearLibro 843760494 "Cien años de soledad" "Gabriel" "García Márquez" "La historia de la familia Buendía" 3
+agregarLibroBiblioteca
+crearFecha 15/08/2025
+prestarLibroBiblioteca 12345678 843760494
+imprimirReservasBiblioteca
+crearFecha 30/08/2025
+devolverLibroBiblioteca 12345678 843760494 15/08/2025
+imprimirPrestamosBiblioteca
+imprimirReservasBiblioteca
+liberarBiblioteca
+Fin

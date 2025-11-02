@@ -1,0 +1,20 @@
+1>Socio de ci 12345678 creado exitosamente.
+2>Socio 12345678: Pedrinho Alfonsinho
+Fecha de alta: 4/6/2000
+Géneros favoritos: 
+3>El socio tiene 0 género/s favorito/s.
+4>El género de id 1 NO es uno de los favoritos del socio.
+5>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 1 exitosamente.
+6>El socio tiene 1 género/s favorito/s.
+7>El género de id 2 NO es uno de los favoritos del socio.
+8>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 4 exitosamente.
+9>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 8 exitosamente.
+10>El socio tiene 3 género/s favorito/s.
+11>El género de id 4 es uno de los favoritos del socio.
+12>El género de id 8 es uno de los favoritos del socio.
+13>El género de id 3 NO es uno de los favoritos del socio.
+14>Socio 12345678: Pedrinho Alfonsinho
+Fecha de alta: 4/6/2000
+Géneros favoritos: 1 4 8 
+15>Se ejecutó 'liberarTSocio' exitosamente.
+16>Fin.

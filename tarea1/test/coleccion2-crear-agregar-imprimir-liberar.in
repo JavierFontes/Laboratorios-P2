@@ -1,0 +1,23 @@
+crearColeccion
+
+# creo cuatro libros para ingresarlos a la Coleccion
+
+crearFecha 01/01/2002
+crearLibro 849550144 "Juventud" "J.M." "Coetzee" "Un joven sudafricano busca sentido en su vida y vocación en Londres" 4
+agregarEnColeccion
+
+crearFecha 01/01/1971
+crearLibro 204578912 "Las venas abiertas de América Latina" "Eduardo" "Galeano" "Un ensayo crítico sobre la historia de la explotación en América Latina" 7
+agregarEnColeccion
+
+crearFecha 28/01/1813
+crearLibro 111213141 "Orgullo y prejuicio" "Jane" "Austen" "Elizabeth Bennet enfrenta el amor y los prejuicios de su época" 1
+agregarEnColeccion
+
+crearFecha 01/01/1980
+crearLibro 222324252 "El nombre de la rosa" "Umberto" "Eco" "Un fraile investiga misteriosos asesinatos en una abadía medieval" 3
+agregarEnColeccion
+
+imprimirColeccion
+liberarColeccion
+Fin

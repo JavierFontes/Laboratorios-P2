@@ -1,0 +1,36 @@
+1>Se ejecutó crearTABBLibrosVacio exitosamente.
+2>3>Se ejecutó crearTABBLibrosVacio exitosamente.
+4>5>6>Se insertó el libro con ISBN 140003446 al árbol.
+7>8>9>Se insertó el libro con ISBN 204578912 al árbol.
+10>11>12>Se insertó el libro con ISBN 316769177 al árbol.
+13>14>15>Se insertó el libro con ISBN 999001122 al árbol.
+16>17>18>Se insertó el libro con ISBN 171819202 al árbol.
+19>20>21>Se insertó el libro con ISBN 843397030 al árbol.
+22>23>24>Se insertó el libro con ISBN 849550144 al árbol.
+25>26>27>Se insertó el libro con ISBN 880619315 al árbol.
+28>29>30>Se insertó el libro con ISBN 111213141 al árbol.
+31>32>33>Se insertó el libro con ISBN 123456789 al árbol.
+34>La altura del arbol es 7.
+35>El libro con ISBN 849550144 pertenece al árbol.
+36>El libro con ISBN 999001122 pertenece al árbol.
+37>El libro con ISBN 123456789 pertenece al árbol.
+38>El libro con ISBN 880619315 pertenece al árbol.
+39>El mayor ISBN en el árbol es 999001122.
+40>La cantidad de libros en el árbol es 10.
+41>El libro con ISBN 999001122 se removió del árbol.
+42>El libro con ISBN 171819202 se removió del árbol.
+43>El libro con ISBN 843397030 se removió del árbol.
+44>El libro con ISBN 880619315 se removió del árbol.
+45>La altura del arbol es 4.
+46>El libro con ISBN 849550144 pertenece al árbol.
+47>El libro con ISBN 999001122 NO pertenece al árbol.
+48>El mayor ISBN en el árbol es 849550144.
+49>La cantidad de libros en el árbol es 6.
+50>Libro nro 5 del abb libros:
+Libro 316769177
+Título: El guardián en el centeno
+Autor: J.D. Salinger
+Descripción: Holden narra sus días tras ser expulsado del colegio, en busca de sentido
+Género: 1
+Fecha de edición: 16/7/1951
+51>52>Fin.

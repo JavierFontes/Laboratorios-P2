@@ -1,0 +1,37 @@
+
+# Crear y mostrar socio sin generos favoritos
+crearSocio 12345678 Pedro Alfonso 4 6 2000
+imprimirCISocio
+imprimirNombreYApellidoSocio
+imprimirFechaAltaSocio
+imprimirSocio
+
+# Agregar un genero favorito a Pedro
+agregarGeneroFavoritoSocio 3
+imprimirSocio
+
+# Test de copia de socio con generos favoritos
+copiarSocio
+# Liberar socio
+liberarSocio 
+
+# Crear y mostrar socio sin generos favoritos
+crearSocio 23456789 Juan Ramirez 4 6 2020
+imprimirCISocio
+imprimirNombreYApellidoSocio
+imprimirFechaAltaSocio
+imprimirSocio
+
+# Juan tiene dos generos favoritos
+agregarGeneroFavoritoSocio 3
+agregarGeneroFavoritoSocio 2
+cantidadGenerosFavoritosSocio
+tieneGeneroFavoritoSocio 2
+tieneGeneroFavoritoSocio 1
+
+# Test de copia de socio con dos generos favoritos
+copiarSocio
+# Liberar Socio
+liberarSocio
+
+Fin

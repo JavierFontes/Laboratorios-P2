@@ -1,0 +1,35 @@
+crearLSESocios
+imprimirLSESocios
+liberarLSESocios
+
+crearLSESocios
+
+# inserta primer elemento
+crearSocio 12345678 Juan Perez 18 11 2005
+agregarGeneroFavoritoSocio 1
+insertarLSESocios   
+imprimirLSESocios
+
+# inserta al principio
+crearSocio 23456789 Shaggy Rogers 25 02 2000
+agregarGeneroFavoritoSocio 2
+insertarLSESocios   
+imprimirLSESocios
+
+# inserta al final
+crearSocio 34567890 Charlie Brown 30 10 2010
+agregarGeneroFavoritoSocio 3
+insertarLSESocios   
+imprimirLSESocios
+
+# empate de fechas en el medio
+crearSocio 56789012 Jim Dear 10 03 2003
+agregarGeneroFavoritoSocio 5
+insertarLSESocios
+crearSocio 67890123 Pedro Martinez 10 03 2003
+agregarGeneroFavoritoSocio 6
+insertarLSESocios   
+imprimirLSESocios
+
+liberarLSESocios
+Fin

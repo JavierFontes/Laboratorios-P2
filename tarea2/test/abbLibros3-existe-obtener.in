@@ -1,0 +1,35 @@
+crearABBLibrosVacio
+
+crearFecha 01/09/2005
+crearLibro 999001122 "Nunca me abandones" "Kazuo" "Ishiguro" "Jóvenes clonados enfrentan su destino en un mundo distópico" 2
+insertarLibroABBLibros
+
+crearFecha 16/07/1951
+crearLibro 316769177 "El guardián en el centeno" "J.D." "Salinger" "Holden narra sus días tras ser expulsado del colegio, en busca de sentido" 1
+insertarLibroABBLibros
+
+crearFecha 01/01/1971
+crearLibro 204578912 "Las venas abiertas de América Latina" "Eduardo" "Galeano" "Un ensayo crítico sobre la historia de la explotación en América Latina" 7
+insertarLibroABBLibros
+
+crearFecha 01/05/1992
+crearLibro 140003446 "Jazz" "Toni" "Morrison" "Una historia de amor y crimen en el Harlem de los años 20" 3
+insertarLibroABBLibros
+
+# No existen
+existeLibroABBLibros 171819202
+existeLibroABBLibros 843397030
+
+# Existen
+existeLibroABBLibros 140003446
+existeLibroABBLibros 204578912
+existeLibroABBLibros 316769177
+existeLibroABBLibros 999001122
+
+obtenerLibroABBLibros 140003446
+obtenerLibroABBLibros 316769177
+obtenerLibroABBLibros 999001122
+obtenerLibroABBLibros 204578912
+
+liberarABBLibros
+Fin

@@ -1,0 +1,52 @@
+1>Se ejecutó 'crearTAGGeneros' exitosamente.
+2>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre -1 e idGenero 100.
+3>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 100 e idGenero 101.
+4>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 100 e idGenero 102.
+5>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 100 e idGenero 103.
+6>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 100 e idGenero 104.
+7>Árbol de géneros:
+100 - Historica
+    104 - Terror
+    103 - Historica
+    102 - Terror
+    101 - Romance
+8>El género de id 104 fue removido.
+9>Árbol de géneros:
+100 - Historica
+    103 - Historica
+    102 - Terror
+    101 - Romance
+10>El género de id 101 fue removido.
+11>Árbol de géneros:
+100 - Historica
+    103 - Historica
+    102 - Terror
+12>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 102 e idGenero 202.
+13>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 102 e idGenero 206.
+14>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 103 e idGenero 250.
+15>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 103 e idGenero 260.
+16>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 250 e idGenero 251.
+17>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 250 e idGenero 252.
+18>Árbol de géneros:
+100 - Historica
+    103 - Historica
+        260 - Terror
+        250 - Romance
+            252 - Terror
+            251 - Historica
+    102 - Terror
+        206 - Historica
+        202 - Romance
+19>El género de id 102 fue removido.
+20>Árbol de géneros:
+100 - Historica
+    103 - Historica
+        260 - Terror
+        250 - Romance
+            252 - Terror
+            251 - Historica
+21>El género de id 103 fue removido.
+22>Árbol de géneros:
+100 - Historica
+23>Se ejecutó 'liberarTAGGeneros' exitosamente.
+24>Fin.

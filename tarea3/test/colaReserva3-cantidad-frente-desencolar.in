@@ -1,0 +1,49 @@
+crearColaReservas
+cantidadColaReservas
+crearSocio 12345678 Jim Dear 10 03 2004
+crearFecha 01/01/1966
+crearLibro 411222335 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 1
+crearReserva
+encolarColaReservas    
+cantidadColaReservas
+desencolarColaReservas
+crearSocio 12345678 Jim Dear 10 03 2004
+crearFecha 01/01/1961
+crearLibro 421233446 "La ratesa" "Günter" "Grass" "Una alegoría postnuclear narrada por una rata parlante que reflexiona sobre la historia" 2
+crearReserva
+encolarColaReservas
+cantidadColaReservas
+frenteColaReservas
+desencolarColaReservas
+liberarColaReservas
+crearColaReservas
+crearSocio 12345678 Jim Dear 10 03 2004
+crearFecha 01/01/1968
+crearLibro 431244557 "Lo bello y lo triste" "Yasunari" "Kawabata" "Un escritor se reencuentra con una amante del pasado en una historia de dolor y deseo" 1
+crearReserva
+encolarColaReservas
+frenteColaReservas
+crearSocio 12345678 Jim Dear 10 03 2004
+crearFecha 05/06/1967
+crearLibro 843760494 "Cien años de soledad" "Gabriel" "García Márquez" "Es la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo" 3
+crearReserva
+encolarColaReservas
+frenteColaReservas
+crearSocio 23456789 Lucia Perez 10 03 2010
+crearFecha 01/01/1961
+crearLibro 421233446 "La ratesa" "Günter" "Grass" "Una alegoría postnuclear narrada por una rata parlante que reflexiona sobre la historia" 2
+crearReserva
+encolarColaReservas
+frenteColaReservas
+cantidadColaReservas
+crearSocio 45678901 Juan Diaz 10 03 1999
+crearFecha 05/06/1967
+crearLibro 843760494 "Cien años de soledad" "Gabriel" "García Márquez" "Es la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo" 3
+crearReserva
+encolarColaReservas
+cantidadColaReservas
+desencolarColaReservas
+frenteColaReservas
+cantidadColaReservas
+liberarColaReservas
+Fin

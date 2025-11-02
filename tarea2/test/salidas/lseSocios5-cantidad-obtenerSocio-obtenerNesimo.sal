@@ -1,0 +1,89 @@
+1>Se ejecutó crearTLSESocios exitosamente.
+2>#  inserta primer elemento.
+3>Socio de ci 12345678 creado exitosamente.
+4>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 1 exitosamente.
+5>Socio de CI 12345678 agregado a la lista de socios de forma exitosa.
+6>Existen 1 socios en la lista.
+7>El socio pertenece a la lista:
+Socio 12345678: Juan Perez
+Fecha de alta: 18/11/2005
+Géneros favoritos: 1 
+8>Socio 1 de la lista:
+Socio 12345678: Juan Perez
+Fecha de alta: 18/11/2005
+Géneros favoritos: 1 
+9>#  inserta al principio.
+10>Socio de ci 23456789 creado exitosamente.
+11>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 2 exitosamente.
+12>Socio de CI 23456789 agregado a la lista de socios de forma exitosa.
+13>Existen 2 socios en la lista.
+14>El socio pertenece a la lista:
+Socio 23456789: Shaggy Rogers
+Fecha de alta: 25/2/2000
+Géneros favoritos: 2 
+15>Socio 1 de la lista:
+Socio 23456789: Shaggy Rogers
+Fecha de alta: 25/2/2000
+Géneros favoritos: 2 
+16>Socio 2 de la lista:
+Socio 12345678: Juan Perez
+Fecha de alta: 18/11/2005
+Géneros favoritos: 1 
+17>#  inserta al final.
+18>Socio de ci 34567890 creado exitosamente.
+19>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 3 exitosamente.
+20>Socio de CI 34567890 agregado a la lista de socios de forma exitosa.
+21>Existen 3 socios en la lista.
+22>El socio pertenece a la lista:
+Socio 34567890: Charlie Brown
+Fecha de alta: 30/10/2010
+Géneros favoritos: 3 
+23>Socio 1 de la lista:
+Socio 23456789: Shaggy Rogers
+Fecha de alta: 25/2/2000
+Géneros favoritos: 2 
+24>Socio 2 de la lista:
+Socio 12345678: Juan Perez
+Fecha de alta: 18/11/2005
+Géneros favoritos: 1 
+25>Socio 3 de la lista:
+Socio 34567890: Charlie Brown
+Fecha de alta: 30/10/2010
+Géneros favoritos: 3 
+26>#  empate de fechas en el medio.
+27>Socio de ci 56789012 creado exitosamente.
+28>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 5 exitosamente.
+29>Socio de CI 56789012 agregado a la lista de socios de forma exitosa.
+30>Socio de ci 67890123 creado exitosamente.
+31>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 6 exitosamente.
+32>Socio de CI 67890123 agregado a la lista de socios de forma exitosa.
+33>Existen 5 socios en la lista.
+34>El socio pertenece a la lista:
+Socio 56789012: Jim Dear
+Fecha de alta: 10/3/2003
+Géneros favoritos: 5 
+35>El socio pertenece a la lista:
+Socio 67890123: Pedro Martinez
+Fecha de alta: 10/3/2003
+Géneros favoritos: 6 
+36>Socio 1 de la lista:
+Socio 23456789: Shaggy Rogers
+Fecha de alta: 25/2/2000
+Géneros favoritos: 2 
+37>Socio 2 de la lista:
+Socio 56789012: Jim Dear
+Fecha de alta: 10/3/2003
+Géneros favoritos: 5 
+38>Socio 3 de la lista:
+Socio 67890123: Pedro Martinez
+Fecha de alta: 10/3/2003
+Géneros favoritos: 6 
+39>Socio 4 de la lista:
+Socio 12345678: Juan Perez
+Fecha de alta: 18/11/2005
+Géneros favoritos: 1 
+40>Socio 5 de la lista:
+Socio 34567890: Charlie Brown
+Fecha de alta: 30/10/2010
+Géneros favoritos: 3 
+41>42>Fin.

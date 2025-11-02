@@ -1,0 +1,72 @@
+crearLSESocios
+esVaciaLSESocios
+
+crearSocio 12345678 Maria Gonzalez 18 11 2003
+insertarLSESocios 
+
+crearSocio 23456789 Sofia Castro 25 02 2000
+insertarLSESocios
+
+crearSocio 34567890 Charlie Brown 30 10 2010
+insertarLSESocios
+
+crearSocio 45678901 Jon Snow 26 12 2005
+insertarLSESocios
+
+cantidadLSESocios
+obtenerNesimoLSESocios 1
+
+crearSocio 56789012 Jim Dear 10 03 2004
+insertarLSESocios
+crearSocio 67890123 Pedro Martinez 10 03 2004
+insertarLSESocios
+
+crearSocio 78901234 Valentina Suarez 10 04 2004
+insertarLSESocios
+crearSocio 89012345 Andres Herrera 10 04 2004
+insertarLSESocios  
+imprimirLSESocios
+
+cantidadLSESocios
+obtenerNesimoLSESocios 1
+obtenerNesimoLSESocios 2
+
+removerSocioLSESocios 12345678
+removerSocioLSESocios 56789012
+esVaciaLSESocios
+
+cantidadLSESocios
+obtenerNesimoLSESocios 2
+
+crearSocio 90123456 Rubeus Hagrid 06 12 1999
+insertarLSESocios
+
+crearSocio 87654321 Penny Forrester 20 01 2015
+insertarLSESocios
+
+cantidadLSESocios
+
+existeSocioLSESocios 12345678
+existeSocioLSESocios 56789012
+existeSocioLSESocios 67890123
+existeSocioLSESocios 87654321
+existeSocioLSESocios 78901234
+
+obtenerSocioLSESocios 90123456
+obtenerSocioLSESocios 87654321
+obtenerSocioLSESocios 89012345
+obtenerSocioLSESocios 78901234
+
+obtenerNesimoLSESocios 1
+obtenerNesimoLSESocios 2
+obtenerNesimoLSESocios 3
+obtenerNesimoLSESocios 4
+obtenerNesimoLSESocios 5
+obtenerNesimoLSESocios 6
+obtenerNesimoLSESocios 7
+obtenerNesimoLSESocios 8
+
+esVaciaLSESocios
+imprimirLSESocios
+liberarLSESocios
+Fin

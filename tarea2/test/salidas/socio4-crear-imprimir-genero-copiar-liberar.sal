@@ -1,0 +1,17 @@
+1>Socio de ci 33982551 creado exitosamente.
+2>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 3 exitosamente.
+3>Socio copiado. Datos de la copia:
+Socio 33982551: Ana Martinez
+Fecha de alta: 19/8/1984
+Géneros favoritos: 3 
+4>Se ejecutó 'liberarTSocio' exitosamente.
+5>Socio de ci 12345678 creado exitosamente.
+6>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 1 exitosamente.
+7>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 4 exitosamente.
+8>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 8 exitosamente.
+9>Socio copiado. Datos de la copia:
+Socio 12345678: Pedrinho Alfonsinho
+Fecha de alta: 4/6/2000
+Géneros favoritos: 1 4 8 
+10>Se ejecutó 'liberarTSocio' exitosamente.
+11>Fin.

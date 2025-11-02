@@ -1,0 +1,11 @@
+crearColeccion
+
+# creo libro para ingresarlo a la colección
+crearFecha 26/06/1997
+crearLibro 171819202 "Harry Potter y la piedra filosofal" "J.K." "Rowling" "Un niño mago descubre su destino en la escuela Hogwarts" 6
+
+agregarEnColeccion
+imprimirColeccion
+
+liberarColeccion
+Fin

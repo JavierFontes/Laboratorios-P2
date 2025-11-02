@@ -1,0 +1,23 @@
+1>Se creó conjunto generos con cantMax 2 exitosamente.
+2>El conjunto de generos es vacío.
+3>El cardinal del conjunto es: 0.
+4>La cantidad máxima del conjunto es: 2.
+5>Se ejecutó 'insertarTConjuntoGeneros con genero de id 0 exitosamente.
+6>La conjunto de generos NO es vacío.
+7>El cardinal del conjunto es: 1.
+8>La cantidad máxima del conjunto es: 2.
+9>Se ejecutó 'insertarTConjuntoGeneros con genero de id 4 exitosamente.
+10>La conjunto de generos NO es vacío.
+11>El cardinal del conjunto es: 1.
+12>La cantidad máxima del conjunto es: 2.
+13>Se ejecutó 'insertarTConjuntoGeneros con genero de id 1 exitosamente.
+14>La conjunto de generos NO es vacío.
+15>El cardinal del conjunto es: 2.
+16>La cantidad máxima del conjunto es: 2.
+17>Se ejecutó 'insertarTConjuntoGeneros con genero de id 1 exitosamente.
+18>Se ejecutó 'insertarTConjuntoGeneros con genero de id 0 exitosamente.
+19>La conjunto de generos NO es vacío.
+20>El cardinal del conjunto es: 2.
+21>La cantidad máxima del conjunto es: 2.
+22>Se ejecutó 'liberarTConjuntoGeneros' exitosamente.
+23>Fin.

@@ -1,0 +1,62 @@
+1>Se creó una cola de prioridad de reservas con cantidad maxima 10
+2>La cola de prioridad es vacía.
+3>Socio de ci 12345678 creado exitosamente.
+4>5>6>Reserva de libro de isbn 411222335 a socio 12345678 creada exitosamente.
+7>Se insertó la reserva en la cola de prioridad.
+8>La cola de prioridad NO es vacía.
+9>Reserva de libro Todos los fuegos el fuego por Jim Dear.
+10>La reserva del socio con ci 12345678 y libro de isbn 411222335 está en la cola de prioridad.
+11>La reserva del socio con ci 12345677 y libro de isbn 411222335 NO está en la cola de prioridad.
+12>Se eliminó el elemento prioritario de la cola de prioridad.
+13>La cola de prioridad es vacía.
+14>Socio de ci 12345678 creado exitosamente.
+15>16>17>Reserva de libro de isbn 411222335 a socio 12345678 creada exitosamente.
+18>Se insertó la reserva en la cola de prioridad.
+19>Socio de ci 12345677 creado exitosamente.
+20>21>22>Reserva de libro de isbn 411222335 a socio 12345677 creada exitosamente.
+23>Se insertó la reserva en la cola de prioridad.
+24>Reserva de libro Todos los fuegos el fuego por Ana Martinez.
+25>La reserva del socio con ci 12345677 y libro de isbn 411222335 está en la cola de prioridad.
+26>Reserva de libro Todos los fuegos el fuego por Ana Martinez.
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+27>Socio de ci 12345679 creado exitosamente.
+28>29>30>Reserva de libro de isbn 411222335 a socio 12345679 creada exitosamente.
+31>Se insertó la reserva en la cola de prioridad.
+32>Socio de ci 23456789 creado exitosamente.
+33>34>35>Reserva de libro de isbn 411222335 a socio 23456789 creada exitosamente.
+36>Se insertó la reserva en la cola de prioridad.
+37>Socio de ci 34567891 creado exitosamente.
+38>39>40>Reserva de libro de isbn 411222335 a socio 34567891 creada exitosamente.
+41>Se insertó la reserva en la cola de prioridad.
+42>Reserva de libro Todos los fuegos el fuego por Ana Martinez.
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+Reserva de libro Todos los fuegos el fuego por Pedro Perez.
+Reserva de libro Todos los fuegos el fuego por Julio Garcia.
+Reserva de libro Todos los fuegos el fuego por Lucia Perez.
+43>Se invirtió la prioridad de la cola de prioridad de reservas
+44>Reserva de libro Todos los fuegos el fuego por Lucia Perez.
+Reserva de libro Todos los fuegos el fuego por Julio Garcia.
+Reserva de libro Todos los fuegos el fuego por Pedro Perez.
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+Reserva de libro Todos los fuegos el fuego por Ana Martinez.
+45>El resultado de duplicar la cola de prioridad es:
+Reserva de libro Todos los fuegos el fuego por Lucia Perez.
+Reserva de libro Todos los fuegos el fuego por Julio Garcia.
+Reserva de libro Todos los fuegos el fuego por Pedro Perez.
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+Reserva de libro Todos los fuegos el fuego por Ana Martinez.
+46>Se invirtió la prioridad de la cola de prioridad de reservas
+47>Reserva de libro Todos los fuegos el fuego por Ana Martinez.
+48>Se eliminó el elemento prioritario de la cola de prioridad.
+49>Reserva de libro Todos los fuegos el fuego por Jim Dear.
+50>Se eliminó el elemento prioritario de la cola de prioridad.
+51>Reserva de libro Todos los fuegos el fuego por Pedro Perez.
+52>Se eliminó el elemento prioritario de la cola de prioridad.
+53>Reserva de libro Todos los fuegos el fuego por Julio Garcia.
+54>Se eliminó el elemento prioritario de la cola de prioridad.
+55>Reserva de libro Todos los fuegos el fuego por Lucia Perez.
+56>La cola de prioridad NO es vacía.
+57>Se eliminó el elemento prioritario de la cola de prioridad.
+58>La cola de prioridad es vacía.
+59>Se liberó la cola de prioridad de reservas
+60>Fin.

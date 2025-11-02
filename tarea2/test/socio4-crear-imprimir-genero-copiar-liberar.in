@@ -1,0 +1,19 @@
+crearSocio 33982551 Ana Martinez 19 8 1984
+
+agregarGeneroFavoritoSocio 3
+
+copiarSocio
+liberarSocio
+
+crearSocio 12345678 Pedrinho Alfonsinho 4 6 2000
+
+agregarGeneroFavoritoSocio 1
+
+agregarGeneroFavoritoSocio 4
+
+agregarGeneroFavoritoSocio 8
+
+copiarSocio
+
+liberarSocio
+Fin

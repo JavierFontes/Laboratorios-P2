@@ -1,0 +1,24 @@
+crearSocio 12345678 Pedrinho Alfonsinho 4 6 2000
+
+imprimirSocio
+
+cantidadGenerosFavoritosSocio
+tieneGeneroFavoritoSocio 1
+
+agregarGeneroFavoritoSocio 1
+
+cantidadGenerosFavoritosSocio
+tieneGeneroFavoritoSocio 2
+
+agregarGeneroFavoritoSocio 4
+
+agregarGeneroFavoritoSocio 8
+
+cantidadGenerosFavoritosSocio
+tieneGeneroFavoritoSocio 4
+tieneGeneroFavoritoSocio 8
+tieneGeneroFavoritoSocio 3
+
+imprimirSocio
+liberarSocio
+Fin

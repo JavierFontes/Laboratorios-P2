@@ -1,0 +1,12 @@
+crearConjuntoGeneros 4
+imprimirConjuntoGeneros
+liberarConjuntoGeneros
+crearConjuntoGeneros 2
+insertarConjuntoGeneros 1
+insertarConjuntoGeneros 5
+insertarConjuntoGeneros 1
+imprimirConjuntoGeneros
+insertarConjuntoGeneros 0
+imprimirConjuntoGeneros
+liberarConjuntoGeneros
+Fin

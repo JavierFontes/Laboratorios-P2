@@ -1,0 +1,78 @@
+1>Se ejecutó crearTLSESocios exitosamente.
+2>#  no existe.
+3>El socio de CI 12345678 NO pertenece a la lista.
+4>#  ---------------------------------------------------------------------.
+5>#  inserta primer elemento.
+6>Socio de ci 12345678 creado exitosamente.
+7>Socio de CI 12345678 agregado a la lista de socios de forma exitosa.
+8>#  ---------------------------------------------------------------------.
+9>#  existe.
+10>El socio de CI 12345678 pertenece a la lista.
+11>#  ---------------------------------------------------------------------.
+12>#  remover unico elemento.
+13>Se removió el socio de CI 12345678 de la lista.
+14>#  ---------------------------------------------------------------------.
+15>#  no existe.
+16>El socio de CI 12345678 NO pertenece a la lista.
+17>#  ---------------------------------------------------------------------.
+18>#  inserta primer elemento.
+19>Socio de ci 12345678 creado exitosamente.
+20>Socio de CI 12345678 agregado a la lista de socios de forma exitosa.
+21>#  .
+22>#  inserta al final.
+23>Socio de ci 34567890 creado exitosamente.
+24>Socio de CI 34567890 agregado a la lista de socios de forma exitosa.
+25>#  .
+26>#  inserta al principio.
+27>Socio de ci 23456789 creado exitosamente.
+28>Socio de CI 23456789 agregado a la lista de socios de forma exitosa.
+29>#  .
+30>#  existen todas.
+31>El socio de CI 12345678 pertenece a la lista.
+32>El socio de CI 34567890 pertenece a la lista.
+33>El socio de CI 23456789 pertenece a la lista.
+34>#  .
+35>#  remover del inicio.
+36>Se removió el socio de CI 23456789 de la lista.
+37>#  .
+38>#  no existe.
+39>El socio de CI 23456789 NO pertenece a la lista.
+40>#  .
+41>#  remover del final.
+42>Se removió el socio de CI 34567890 de la lista.
+43>#  .
+44>#  no existe.
+45>El socio de CI 34567890 NO pertenece a la lista.
+46>#  .
+47>#  existe.
+48>El socio de CI 12345678 pertenece a la lista.
+49>#  .
+50>#  inserta al final.
+51>Socio de ci 34567890 creado exitosamente.
+52>Socio de CI 34567890 agregado a la lista de socios de forma exitosa.
+53>#  .
+54>#  inserta al principio.
+55>Socio de ci 23456789 creado exitosamente.
+56>Socio de CI 23456789 agregado a la lista de socios de forma exitosa.
+57>#  .
+58>#  empate de fechas en el medio.
+59>Socio de ci 56789012 creado exitosamente.
+60>Socio de CI 56789012 agregado a la lista de socios de forma exitosa.
+61>Socio de ci 67890123 creado exitosamente.
+62>Socio de CI 67890123 agregado a la lista de socios de forma exitosa.
+63>#  .
+64>#  existe.
+65>El socio de CI 56789012 pertenece a la lista.
+66>#  .
+67>#  remover del medio.
+68>Se removió el socio de CI 12345678 de la lista.
+69>#  .
+70>#  no existe .
+71>El socio de CI 12345678 NO pertenece a la lista.
+72>#  .
+73>#  existen todas.
+74>El socio de CI 23456789 pertenece a la lista.
+75>El socio de CI 34567890 pertenece a la lista.
+76>El socio de CI 56789012 pertenece a la lista.
+77>El socio de CI 67890123 pertenece a la lista.
+78>79>Fin.

@@ -1,0 +1,68 @@
+crearLDEPrestamos
+
+# Creo e inserto el Prestamo 1
+crearSocio 12345678 Jim Dear 10 03 2004
+crearFecha 01/01/1966
+crearLibro 411222335 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 1
+crearFecha 15/03/2023
+crearPrestamo
+insertarLDEPrestamos
+
+# Creo e inserto el Prestamo 2 que ya fue retornado
+crearSocio 23456789 Lucia Perez 10 03 2010
+crearFecha 01/01/1961
+crearLibro 421233446 "La ratesa" "Günter" "Grass" "Una alegoría postnuclear narrada por una rata parlante que reflexiona sobre la historia" 2
+crearFecha 10/11/2021
+crearPrestamo
+crearFecha 15/11/2021
+actualizarFechaDevolucionPrestamo
+insertarLDEPrestamos
+
+# Creo e inserto el Prestamo 3
+crearSocio 34567890 Juan Diaz 10 03 2005
+crearFecha 01/01/1968
+crearLibro 431244557 "Lo bello y lo triste" "Yasunari" "Kawabata" "Un escritor se reencuentra con una amante del pasado en una historia de dolor y deseo" 1
+crearFecha 05/06/2019
+crearPrestamo
+insertarLDEPrestamos
+
+# Creo e inserto el Prestamo 4 que ya fue retornado
+crearSocio 45678901 Juan Diaz 10 03 1999
+crearFecha 05/06/1967
+crearLibro 843760494 "Cien años de soledad" "Gabriel" "García Márquez" "Es la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo" 3
+crearFecha 20/01/2010
+crearPrestamo
+crearFecha 15/11/2010
+actualizarFechaDevolucionPrestamo
+insertarLDEPrestamos
+
+# Imprimo la lista de Prestamos
+imprimirLDEPrestamos
+# Imprimo la lista al revés 
+imprimirInvertidoLDEPrestamos
+
+# Obtengo el primero
+obtenerPrimeroLDEPrestamos
+# Obtengo el último
+obtenerUltimoLDEPrestamos
+
+# Obtengo n-ésimo posición 1
+obtenerNesimoLDEPrestamos 1
+# Obtengo n-ésimo posición 2
+obtenerNesimoLDEPrestamos 2
+# Obtengo n-ésimo posición 3
+obtenerNesimoLDEPrestamos 3
+# Obtengo n-ésimo posición 4
+obtenerNesimoLDEPrestamos 4
+
+# Imprimo invertido
+imprimirInvertidoLDEPrestamos
+
+# Obtengo prestamos retornados
+filtrarPrestamosLDEPrestamos 0
+# Obtengo prestamos sin retornar
+filtrarPrestamosLDEPrestamos 1
+
+# Libero la lista
+liberarLDEPrestamos
+Fin

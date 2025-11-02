@@ -1,0 +1,16 @@
+1>Biblioteca creada exitosamente.
+2>Socio de ci 12345678 creado exitosamente.
+3>Socio de CI 12345678 agregado a la biblioteca.
+4>Socio de ci 23456789 creado exitosamente.
+5>Socio de CI 23456789 agregado a la biblioteca.
+6>7>8>Libro de ISBN 843760494 agregado a la biblioteca.
+9>10>Préstamo del libro 843760494 al socio 12345678 registrado.
+11>Cola de Reservas:
+12>13>Devolución del libro 843760494 por el socio 12345678 registrada.
+14>LDE Préstamos:
+Préstamo de libro Cien años de soledad a Jim Dear.
+15/8/2025
+30/8/2025
+15>Cola de Reservas:
+16>Biblioteca liberada exitosamente.
+17>Fin.

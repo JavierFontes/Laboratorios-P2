@@ -1,0 +1,32 @@
+crearColaReservas
+crearSocio 12345678 Jim Dear 10 03 2004
+crearFecha 01/01/1966
+crearLibro 411222335 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 1
+crearReserva
+encolarColaReservas
+frenteColaReservas
+crearSocio 12345678 Jim Dear 10 03 2004
+crearFecha 01/01/1968
+crearLibro 431244557 "Lo bello y lo triste" "Yasunari" "Kawabata" "Un escritor se reencuentra con una amante del pasado en una historia de dolor y deseo" 1
+crearReserva
+encolarColaReservas
+imprimirColaReservas
+crearSocio 23456789 Lucia Perez 10 03 2010
+crearFecha 01/01/1961
+crearLibro 421233446 "La ratesa" "Günter" "Grass" "Una alegoría postnuclear narrada por una rata parlante que reflexiona sobre la historia" 2
+crearReserva
+encolarColaReservas
+cantidadColaReservas
+crearSocio 34567890 Juan Diaz 10 03 2005
+crearFecha 01/01/1968
+crearLibro 431244557 "Lo bello y lo triste" "Yasunari" "Kawabata" "Un escritor se reencuentra con una amante del pasado en una historia de dolor y deseo" 1
+crearReserva
+encolarColaReservas
+cantidadColaReservas
+imprimirColaReservas
+desencolarColaReservas
+imprimirColaReservas
+frenteColaReservas
+cantidadColaReservas
+liberarColaReservas
+Fin

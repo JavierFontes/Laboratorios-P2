@@ -1,0 +1,35 @@
+1>Se ejecutó 'crearTColaReservas' exitosamente
+2>Socio de ci 12345678 creado exitosamente.
+3>4>5>Reserva de libro de isbn 411222335 a socio 12345678 creada exitosamente.
+6>Se ejecutó 'encolarTColaReservas' exitosamente.
+7>Reserva obtenida al ejecutar frente:
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+8>Socio de ci 12345678 creado exitosamente.
+9>10>11>Reserva de libro de isbn 431244557 a socio 12345678 creada exitosamente.
+12>Se ejecutó 'encolarTColaReservas' exitosamente.
+13>Cola de Reservas:
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+Reserva de libro Lo bello y lo triste por Jim Dear.
+14>Socio de ci 23456789 creado exitosamente.
+15>16>17>Reserva de libro de isbn 421233446 a socio 23456789 creada exitosamente.
+18>Se ejecutó 'encolarTColaReservas' exitosamente.
+19>La cantidad de reservas en la cola es 3
+20>Socio de ci 34567890 creado exitosamente.
+21>22>23>Reserva de libro de isbn 431244557 a socio 34567890 creada exitosamente.
+24>Se ejecutó 'encolarTColaReservas' exitosamente.
+25>La cantidad de reservas en la cola es 4
+26>Cola de Reservas:
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+Reserva de libro Lo bello y lo triste por Jim Dear.
+Reserva de libro La ratesa por Lucia Perez.
+Reserva de libro Lo bello y lo triste por Juan Diaz.
+27>Se ejecutó 'desencolarTColaReservas' exitosamente
+28>Cola de Reservas:
+Reserva de libro Lo bello y lo triste por Jim Dear.
+Reserva de libro La ratesa por Lucia Perez.
+Reserva de libro Lo bello y lo triste por Juan Diaz.
+29>Reserva obtenida al ejecutar frente:
+Reserva de libro Lo bello y lo triste por Jim Dear.
+30>La cantidad de reservas en la cola es 3
+31>Se ejecutó 'liberarTColaReservas' exitosamente
+32>Fin.

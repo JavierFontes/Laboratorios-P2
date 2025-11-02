@@ -1,0 +1,150 @@
+1>Se ejecutó crearTLSESocios exitosamente.
+2>La lista de socios es vacía.
+3>Socio de ci 12345678 creado exitosamente.
+4>Socio de CI 12345678 agregado a la lista de socios de forma exitosa.
+5>Socio de ci 23456789 creado exitosamente.
+6>Socio de CI 23456789 agregado a la lista de socios de forma exitosa.
+7>Socio de ci 34567890 creado exitosamente.
+8>Socio de CI 34567890 agregado a la lista de socios de forma exitosa.
+9>Socio de ci 45678901 creado exitosamente.
+10>Socio de CI 45678901 agregado a la lista de socios de forma exitosa.
+11>Existen 4 socios en la lista.
+12>Socio 1 de la lista:
+Socio 23456789: Sofia Castro
+Fecha de alta: 25/2/2000
+Géneros favoritos: 
+13>Socio de ci 56789012 creado exitosamente.
+14>Socio de CI 56789012 agregado a la lista de socios de forma exitosa.
+15>Socio de ci 67890123 creado exitosamente.
+16>Socio de CI 67890123 agregado a la lista de socios de forma exitosa.
+17>Socio de ci 78901234 creado exitosamente.
+18>Socio de CI 78901234 agregado a la lista de socios de forma exitosa.
+19>Socio de ci 89012345 creado exitosamente.
+20>Socio de CI 89012345 agregado a la lista de socios de forma exitosa.
+21>Lista de Socios:
+Socio 23456789: Sofia Castro
+Fecha de alta: 25/2/2000
+Géneros favoritos: 
+Socio 12345678: Maria Gonzalez
+Fecha de alta: 18/11/2003
+Géneros favoritos: 
+Socio 56789012: Jim Dear
+Fecha de alta: 10/3/2004
+Géneros favoritos: 
+Socio 67890123: Pedro Martinez
+Fecha de alta: 10/3/2004
+Géneros favoritos: 
+Socio 78901234: Valentina Suarez
+Fecha de alta: 10/4/2004
+Géneros favoritos: 
+Socio 89012345: Andres Herrera
+Fecha de alta: 10/4/2004
+Géneros favoritos: 
+Socio 45678901: Jon Snow
+Fecha de alta: 26/12/2005
+Géneros favoritos: 
+Socio 34567890: Charlie Brown
+Fecha de alta: 30/10/2010
+Géneros favoritos: 
+22>Existen 8 socios en la lista.
+23>Socio 1 de la lista:
+Socio 23456789: Sofia Castro
+Fecha de alta: 25/2/2000
+Géneros favoritos: 
+24>Socio 2 de la lista:
+Socio 12345678: Maria Gonzalez
+Fecha de alta: 18/11/2003
+Géneros favoritos: 
+25>Se removió el socio de CI 12345678 de la lista.
+26>Se removió el socio de CI 56789012 de la lista.
+27>La lista de socios NO es vacía.
+28>Existen 6 socios en la lista.
+29>Socio 2 de la lista:
+Socio 67890123: Pedro Martinez
+Fecha de alta: 10/3/2004
+Géneros favoritos: 
+30>Socio de ci 90123456 creado exitosamente.
+31>Socio de CI 90123456 agregado a la lista de socios de forma exitosa.
+32>Socio de ci 87654321 creado exitosamente.
+33>Socio de CI 87654321 agregado a la lista de socios de forma exitosa.
+34>Existen 8 socios en la lista.
+35>El socio de CI 12345678 NO pertenece a la lista.
+36>El socio de CI 56789012 NO pertenece a la lista.
+37>El socio de CI 67890123 pertenece a la lista.
+38>El socio de CI 87654321 pertenece a la lista.
+39>El socio de CI 78901234 pertenece a la lista.
+40>El socio pertenece a la lista:
+Socio 90123456: Rubeus Hagrid
+Fecha de alta: 6/12/1999
+Géneros favoritos: 
+41>El socio pertenece a la lista:
+Socio 87654321: Penny Forrester
+Fecha de alta: 20/1/2015
+Géneros favoritos: 
+42>El socio pertenece a la lista:
+Socio 89012345: Andres Herrera
+Fecha de alta: 10/4/2004
+Géneros favoritos: 
+43>El socio pertenece a la lista:
+Socio 78901234: Valentina Suarez
+Fecha de alta: 10/4/2004
+Géneros favoritos: 
+44>Socio 1 de la lista:
+Socio 90123456: Rubeus Hagrid
+Fecha de alta: 6/12/1999
+Géneros favoritos: 
+45>Socio 2 de la lista:
+Socio 23456789: Sofia Castro
+Fecha de alta: 25/2/2000
+Géneros favoritos: 
+46>Socio 3 de la lista:
+Socio 67890123: Pedro Martinez
+Fecha de alta: 10/3/2004
+Géneros favoritos: 
+47>Socio 4 de la lista:
+Socio 78901234: Valentina Suarez
+Fecha de alta: 10/4/2004
+Géneros favoritos: 
+48>Socio 5 de la lista:
+Socio 89012345: Andres Herrera
+Fecha de alta: 10/4/2004
+Géneros favoritos: 
+49>Socio 6 de la lista:
+Socio 45678901: Jon Snow
+Fecha de alta: 26/12/2005
+Géneros favoritos: 
+50>Socio 7 de la lista:
+Socio 34567890: Charlie Brown
+Fecha de alta: 30/10/2010
+Géneros favoritos: 
+51>Socio 8 de la lista:
+Socio 87654321: Penny Forrester
+Fecha de alta: 20/1/2015
+Géneros favoritos: 
+52>La lista de socios NO es vacía.
+53>Lista de Socios:
+Socio 90123456: Rubeus Hagrid
+Fecha de alta: 6/12/1999
+Géneros favoritos: 
+Socio 23456789: Sofia Castro
+Fecha de alta: 25/2/2000
+Géneros favoritos: 
+Socio 67890123: Pedro Martinez
+Fecha de alta: 10/3/2004
+Géneros favoritos: 
+Socio 78901234: Valentina Suarez
+Fecha de alta: 10/4/2004
+Géneros favoritos: 
+Socio 89012345: Andres Herrera
+Fecha de alta: 10/4/2004
+Géneros favoritos: 
+Socio 45678901: Jon Snow
+Fecha de alta: 26/12/2005
+Géneros favoritos: 
+Socio 34567890: Charlie Brown
+Fecha de alta: 30/10/2010
+Géneros favoritos: 
+Socio 87654321: Penny Forrester
+Fecha de alta: 20/1/2015
+Géneros favoritos: 
+54>55>Fin.

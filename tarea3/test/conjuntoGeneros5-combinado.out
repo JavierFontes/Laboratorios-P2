@@ -1,0 +1,43 @@
+1>Se creó conjunto generos con cantMax 10 exitosamente.
+2>El cardinal del conjunto es: 0.
+3>La cantidad máxima del conjunto es: 10.
+4>Se ejecutó 'insertarTConjuntoGeneros con genero de id 0 exitosamente.
+5>Se ejecutó 'insertarTConjuntoGeneros con genero de id 1 exitosamente.
+6>Se ejecutó 'insertarTConjuntoGeneros con genero de id 2 exitosamente.
+7>Se ejecutó 'borrarDeTConjuntoGeneros con genero de id 1 exitosamente.
+8>Se ejecutó 'insertarTConjuntoGeneros con genero de id 3 exitosamente.
+9>Se ejecutó 'insertarTConjuntoGeneros con genero de id 6 exitosamente.
+10>Se ejecutó 'insertarTConjuntoGeneros con genero de id 7 exitosamente.
+11>Se ejecutó 'borrarDeTConjuntoGeneros con genero de id 2 exitosamente.
+12>Se ejecutó 'insertarTConjuntoGeneros con genero de id 8 exitosamente.
+13>Se ejecutó 'insertarTConjuntoGeneros con genero de id 9 exitosamente.
+14>Se ejecutó 'insertarTConjuntoGeneros con genero de id 1 exitosamente.
+15>Se ejecutó 'insertarTConjuntoGeneros con genero de id 2 exitosamente.
+16>El cardinal del conjunto es: 8.
+17>La cantidad máxima del conjunto es: 10.
+18>Conjunto de generos:
+0 1 2 3 6 7 8 9
+19>Conjunto de generos unión:
+0 1 2 3 4 5 6 7 8 9
+20>Conjunto de generos intersección:
+1 3 6
+21>Conjunto de generos diferencia:
+0 2 7 8 9
+22>Se ejecutó 'borrarDeTConjuntoGeneros con genero de id 1 exitosamente.
+23>Se ejecutó 'borrarDeTConjuntoGeneros con genero de id 2 exitosamente.
+24>Conjunto de generos unión:
+0 1 3 4 5 6 7 8 9
+25>Conjunto de generos intersección:
+3 6
+26>Conjunto de generos diferencia:
+0 7 8 9
+27>Se ejecutó 'borrarDeTConjuntoGeneros con genero de id 8 exitosamente.
+28>Se ejecutó 'borrarDeTConjuntoGeneros con genero de id 9 exitosamente.
+29>Conjunto de generos unión:
+0 1 3 4 5 6 7
+30>Conjunto de generos intersección:
+3 6
+31>Conjunto de generos diferencia:
+0 7
+32>Se ejecutó 'liberarTConjuntoGeneros' exitosamente.
+33>Fin.

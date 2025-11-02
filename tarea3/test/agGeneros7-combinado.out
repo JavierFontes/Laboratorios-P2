@@ -1,0 +1,152 @@
+1>Se ejecutó 'crearTAGGeneros' exitosamente.
+2>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre -1 e idGenero 1.
+3>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 1 e idGenero 11.
+4>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 1 e idGenero 12.
+5>Árbol de géneros:
+1 - Terror
+    12 - Comedia
+    11 - Historica
+6>Existen 3 géneros en el árbol de géneros.
+7>La altura de del árbol general es: 2.
+8>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 11 e idGenero 111.
+9>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 11 e idGenero 112.
+10>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 11 e idGenero 113.
+11>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 12 e idGenero 121.
+12>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 12 e idGenero 122.
+13>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 12 e idGenero 123.
+14>Árbol de géneros:
+1 - Terror
+    12 - Comedia
+        123 - Historica
+        122 - Terror
+        121 - Accion
+    11 - Historica
+        113 - Comedia
+        112 - Terror
+        111 - Historica
+15>Existen 9 géneros en el árbol de géneros.
+16>La altura de del árbol general es: 3.
+17>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 111 e idGenero 1111.
+18>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 111 e idGenero 1112.
+19>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 111 e idGenero 1113.
+20>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 111 e idGenero 1114.
+21>Existen 13 géneros en el árbol de géneros.
+22>La altura de del árbol general es: 4.
+23>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 112 e idGenero 1121.
+24>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 112 e idGenero 1122.
+25>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 112 e idGenero 1123.
+26>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 112 e idGenero 1124.
+27>Existen 17 géneros en el árbol de géneros.
+28>La altura de del árbol general es: 4.
+29>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 113 e idGenero 1131.
+30>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 113 e idGenero 1132.
+31>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 113 e idGenero 1133.
+32>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 113 e idGenero 1134.
+33>Existen 21 géneros en el árbol de géneros.
+34>La altura de del árbol general es: 4.
+35>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 121 e idGenero 1211.
+36>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 121 e idGenero 1212.
+37>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 121 e idGenero 1213.
+38>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 121 e idGenero 1214.
+39>Existen 25 géneros en el árbol de géneros.
+40>La altura de del árbol general es: 4.
+41>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 122 e idGenero 1221.
+42>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 122 e idGenero 1222.
+43>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 122 e idGenero 1223.
+44>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 122 e idGenero 1224.
+45>Existen 29 géneros en el árbol de géneros.
+46>La altura de del árbol general es: 4.
+47>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 123 e idGenero 1231.
+48>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 123 e idGenero 1232.
+49>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 123 e idGenero 1233.
+50>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 123 e idGenero 1234.
+51>Existen 33 géneros en el árbol de géneros.
+52>La altura de del árbol general es: 4.
+53>Árbol de géneros:
+1 - Terror
+    12 - Comedia
+        123 - Historica
+            1234 - Drama
+            1233 - Accion
+            1232 - Terror
+            1231 - Drama
+        122 - Terror
+            1224 - Drama
+            1223 - Comedia
+            1222 - Historica
+            1221 - Drama
+        121 - Accion
+            1214 - Terror
+            1213 - Historica
+            1212 - Drama
+            1211 - Historica
+    11 - Historica
+        113 - Comedia
+            1134 - Historica
+            1133 - Terror
+            1132 - Drama
+            1131 - Terror
+        112 - Terror
+            1124 - Accion
+            1123 - Comedia
+            1122 - Historica
+            1121 - Comedia
+        111 - Historica
+            1114 - Drama
+            1113 - Terror
+            1112 - Drama
+            1111 - Terror
+54>El género de id 123 fue removido.
+55>Existen 28 géneros en el árbol de géneros.
+56>Árbol de géneros:
+1 - Terror
+    12 - Comedia
+        122 - Terror
+            1224 - Drama
+            1223 - Comedia
+            1222 - Historica
+            1221 - Drama
+        121 - Accion
+            1214 - Terror
+            1213 - Historica
+            1212 - Drama
+            1211 - Historica
+    11 - Historica
+        113 - Comedia
+            1134 - Historica
+            1133 - Terror
+            1132 - Drama
+            1131 - Terror
+        112 - Terror
+            1124 - Accion
+            1123 - Comedia
+            1122 - Historica
+            1121 - Comedia
+        111 - Historica
+            1114 - Drama
+            1113 - Terror
+            1112 - Drama
+            1111 - Terror
+57>El género de id 12 fue removido.
+58>Existen 17 géneros en el árbol de géneros.
+59>Árbol de géneros:
+1 - Terror
+    11 - Historica
+        113 - Comedia
+            1134 - Historica
+            1133 - Terror
+            1132 - Drama
+            1131 - Terror
+        112 - Terror
+            1124 - Accion
+            1123 - Comedia
+            1122 - Historica
+            1121 - Comedia
+        111 - Historica
+            1114 - Drama
+            1113 - Terror
+            1112 - Drama
+            1111 - Terror
+60>La altura de del árbol general es: 4.
+61>Se ejecutó 'liberarTAGGeneros' exitosamente.
+62>Fin.

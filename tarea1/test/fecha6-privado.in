@@ -1,0 +1,45 @@
+crearFecha 20/2/1988
+imprimirFecha
+aumentarDias 11
+imprimirFecha
+liberarFecha
+
+# año bisiesto
+crearFecha 1/2/2024
+imprimirFecha
+aumentarDias 28
+imprimirFecha
+aumentarDias 560
+imprimirFecha
+liberarFecha
+
+# mas de un mes
+crearFecha 18/12/2023
+imprimirFecha
+aumentarDias 65
+imprimirFecha
+liberarFecha
+
+# mas de un mes y bisiesto
+crearFecha 18/12/2023
+imprimirFecha
+aumentarDias 73
+imprimirFecha
+liberarFecha
+
+# mas de un año
+crearFecha 18/12/2022
+imprimirFecha
+aumentarDias 366
+imprimirFecha
+aumentarDias 377
+imprimirFecha
+liberarFecha
+
+# mas de un año y bisiesto
+crearFecha 18/12/2023
+imprimirFecha
+aumentarDias 368
+imprimirFecha
+liberarFecha
+Fin

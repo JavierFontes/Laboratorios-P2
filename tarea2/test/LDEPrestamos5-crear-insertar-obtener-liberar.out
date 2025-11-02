@@ -1,0 +1,27 @@
+1>2>No se puede obtener el primero de la LDE de préstamos porque es vacía
+3>No se puede obtener el último de la LDE de préstamos porque es vacía
+4>#  Creo e inserto el Prestamo 1.
+5>Socio de ci 12345678 creado exitosamente.
+6>7>8>9>Préstamo de libro de isbn 411222335 a socio 12345678 creado exitosamente.
+10>11>Ultimo préstamo:
+Préstamo de libro Todos los fuegos el fuego a Jim Dear.
+8/9/2024
+No retornado
+12>#  Creo e inserto el Prestamo 2.
+13>Socio de ci 23456789 creado exitosamente.
+14>15>16>17>Préstamo de libro de isbn 421233446 a socio 23456789 creado exitosamente.
+18>19>#  Creo e inserto el Prestamo 3.
+20>Socio de ci 34567890 creado exitosamente.
+21>22>23>24>Préstamo de libro de isbn 431244557 a socio 34567890 creado exitosamente.
+25>26>#  Creo e inserto el Prestamo 4.
+27>Socio de ci 45678901 creado exitosamente.
+28>29>30>31>Préstamo de libro de isbn 843760494 a socio 45678901 creado exitosamente.
+32>33>Primer préstamo:
+Préstamo de libro Todos los fuegos el fuego a Jim Dear.
+8/9/2024
+No retornado
+34>Ultimo préstamo:
+Préstamo de libro Cien años de soledad a Juan Diaz.
+8/11/2025
+No retornado
+35>36>Fin.

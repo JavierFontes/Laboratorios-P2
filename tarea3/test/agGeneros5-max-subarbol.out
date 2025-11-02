@@ -1,0 +1,21 @@
+1>Se ejecutó 'crearTAGGeneros' exitosamente.
+2>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre -1 e idGenero 44.
+3>Árbol de géneros:
+44 - Comedia
+4>El maximo genero es: 44.
+5>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 44 e idGenero 17.
+6>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 44 e idGenero 15.
+7>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 17 e idGenero 23.
+8>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 17 e idGenero 40.
+9>Árbol de géneros:
+17 - Historica
+    40 - Comedia
+    23 - Terror
+10>El maximo genero es: 44.
+11>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 23 e idGenero 3.
+12>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 15 e idGenero 88.
+13>Árbol de géneros:
+88 - Terror
+14>El maximo genero es: 88.
+15>Se ejecutó 'liberarTAGGeneros' exitosamente.
+16>Fin.

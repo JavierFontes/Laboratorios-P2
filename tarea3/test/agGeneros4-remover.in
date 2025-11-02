@@ -1,0 +1,24 @@
+crearAGGeneros
+insertarAGGeneros -1 100 Historica
+insertarAGGeneros 100 101 Romance
+insertarAGGeneros 100 102 Terror
+insertarAGGeneros 100 103 Historica
+insertarAGGeneros 100 104 Terror
+imprimirAGGeneros
+removerGeneroAGGeneros 104
+imprimirAGGeneros
+removerGeneroAGGeneros 101
+imprimirAGGeneros
+insertarAGGeneros 102 202 Romance
+insertarAGGeneros 102 206 Historica
+insertarAGGeneros 103 250 Romance
+insertarAGGeneros 103 260 Terror
+insertarAGGeneros 250 251 Historica
+insertarAGGeneros 250 252 Terror
+imprimirAGGeneros
+removerGeneroAGGeneros 102
+imprimirAGGeneros
+removerGeneroAGGeneros 103
+imprimirAGGeneros
+liberarAGGeneros
+Fin

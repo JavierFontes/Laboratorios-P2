@@ -1,0 +1,27 @@
+crearFecha 05/06/1967
+crearLibro 843760494 "Cien años de soledad" "Gabriel" "García Márquez" "Es la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo" 3
+
+imprimirISBNLibro
+imprimirTituloLibro
+imprimirNombreAutorLibro 
+imprimirApellidoAutorLibro 
+imprimirDescripcionLibro 
+imprimirFechaEdicionLibro 
+imprimirIdGeneroLibro
+imprimirLibro
+liberarLibro
+
+crearFecha 01/09/1987
+crearLibro 843397380 "Tokio Blues" "Haruki" "Murakami" "Un joven recuerda su vida universitaria marcada por la pérdida y el amor" 1
+
+imprimirISBNLibro
+imprimirTituloLibro
+imprimirNombreAutorLibro 
+imprimirApellidoAutorLibro 
+imprimirDescripcionLibro 
+imprimirFechaEdicionLibro 
+imprimirIdGeneroLibro
+imprimirLibro 
+liberarLibro
+
+Fin

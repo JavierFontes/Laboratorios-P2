@@ -1,0 +1,29 @@
+1>2>3>El isbn del libro es: 843760494
+4>El título del libro es: Cien años de soledad
+5>El nombre del autor del libro es: Gabriel
+6>El apellido del autor del libro es: García Márquez
+7>La descripción del libro es: Es la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo
+8>La fecha de edición del libro es: 5/6/1967
+9>El id del género del libro es: 3
+10>Libro 843760494
+Título: Cien años de soledad
+Autor: Gabriel García Márquez
+Descripción: Es la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo
+Género: 3
+Fecha de edición: 5/6/1967
+11>Función 'liberarTLibro' ejecutada exitosamente.
+12>13>14>El isbn del libro es: 843397380
+15>El título del libro es: Tokio Blues
+16>El nombre del autor del libro es: Haruki
+17>El apellido del autor del libro es: Murakami
+18>La descripción del libro es: Un joven recuerda su vida universitaria marcada por la pérdida y el amor
+19>La fecha de edición del libro es: 1/9/1987
+20>El id del género del libro es: 1
+21>Libro 843397380
+Título: Tokio Blues
+Autor: Haruki Murakami
+Descripción: Un joven recuerda su vida universitaria marcada por la pérdida y el amor
+Género: 1
+Fecha de edición: 1/9/1987
+22>Función 'liberarTLibro' ejecutada exitosamente.
+23>Fin.

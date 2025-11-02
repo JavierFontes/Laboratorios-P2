@@ -1,0 +1,97 @@
+# Creo ABBLibros vacío
+crearABBLibrosVacio
+
+# Agrego 19 Libros
+crearFecha 01/05/1992
+crearLibro 15 "Jazz" "Toni" "Morrison" "Una historia de amor y crimen en el Harlem de los años 20" 3
+insertarLibroABBLibros
+
+crearFecha 01/01/1971
+crearLibro 10 "Nunca me abandones" "Kazuo" "Ishiguro" "Jóvenes clonados enfrentan su destino en un mundo distópico" 3
+insertarLibroABBLibros
+
+crearFecha 26/06/1997
+crearLibro 5 "Harry Potter y la piedra filosofal" "J.K." "Rowling" "Un niño mago descubre su destino en la escuela Hogwarts" 6
+insertarLibroABBLibros
+
+crearFecha 01/01/2002
+crearLibro 1 "Juventud" "J.M." "Coetzee" "Un joven sudafricano busca sentido en su vida y vocación en Londres" 3
+insertarLibroABBLibros
+
+crearFecha 01/01/2008
+crearLibro 11 "La soledad de los números primos" "Paolo" "Giordano" "Dos almas heridas incapaces de coincidir en el amor" 1
+insertarLibroABBLibros
+
+crearFecha 19/10/1953
+crearLibro 20 "Fahrenheit 451" "Ray" "Bradbury" "Un bombero quema libros en una sociedad donde leer es delito" 2
+insertarLibroABBLibros
+
+crearFecha 01/01/1952
+crearLibro 8 "El viejo y el mar" "Ernest" "Hemingway" "Un viejo pescador enfrenta al mar en una lucha silenciosa" 1
+insertarLibroABBLibros
+
+crearFecha 01/01/1989
+crearLibro 17 "El palacio de la luna" "Paul" "Auster" "Un joven cae en la pobreza y encuentra sentido en un viaje inesperado" 1
+insertarLibroABBLibros
+
+crearFecha 01/01/1987
+crearLibro 3 "Beloved" "Toni" "Morrison" "Una esclava liberada es perseguida por el fantasma de su hija muerta" 1
+insertarLibroABBLibros
+
+crearFecha 01/01/1999
+crearLibro 13 "Desgracia" "J.M." "Coetzee" "Un profesor sudafricano cae en desgracia y enfrenta una realidad post-apartheid" 1
+insertarLibroABBLibros
+
+crearFecha 01/01/1999
+crearLibro 18 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 2
+insertarLibroABBLibros
+
+crearFecha 01/01/1999
+crearLibro 21 "La ratesa" "Günter" "Grass" "Una alegoría postnuclear narrada por una rata parlante que reflexiona sobre la historia" 2
+insertarLibroABBLibros
+
+crearFecha 01/01/1999
+crearLibro 19 "Tokio Blues" "Haruki" "Murakami" "Un joven recuerda su vida universitaria marcada por la pérdida y el amor" 2
+insertarLibroABBLibros
+
+crearFecha 01/01/1999
+crearLibro 6 "1984" "George" "Orwell" "Un régimen totalitario controla hasta los pensamientos de sus ciudadanos" 2
+insertarLibroABBLibros
+
+crearFecha 01/01/1999
+crearLibro 30 "Guerra y paz" "León" "Tolstói" "Épica historia sobre la nobleza rusa durante las guerras napoleónicas" 2
+insertarLibroABBLibros
+
+crearFecha 01/01/1999
+crearLibro 32 "Carrie" "Stephen" "King" "Una adolescente con poderes telequinéticos enfrenta el abuso y el horror" 2
+insertarLibroABBLibros
+
+crearFecha 01/01/1999
+crearLibro 26 "Cometas en el cielo" "Khaled" "Hosseini" "Una amistad marcada por la traición en el Afganistán contemporáneo" 2
+insertarLibroABBLibros
+
+crearFecha 01/01/1999
+crearLibro 12 "El palacio de la luna" "Paul" "Auster" "Un joven cae en la pobreza y encuentra sentido en un viaje inesperado" 2
+insertarLibroABBLibros
+
+crearFecha 01/01/1999
+crearLibro 37 "Kafka en la orilla" "Haruki" "Murakami" "Dos historias paralelas entrelazadas por lo onírico, la soledad y la identidad" 2
+insertarLibroABBLibros
+
+# 0 elementos
+filtradoPorGeneroABBLibros 8 
+
+# 10 elementos
+filtradoPorGeneroABBLibros 2 
+
+# 5 elementos
+filtradoPorGeneroABBLibros 1
+
+# 1 elementos
+filtradoPorGeneroABBLibros 6
+
+# 3 elementos
+filtradoPorGeneroABBLibros 3
+
+liberarABBLibros
+Fin

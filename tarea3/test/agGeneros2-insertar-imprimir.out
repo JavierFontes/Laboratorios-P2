@@ -1,0 +1,53 @@
+1>Se ejecutó 'crearTAGGeneros' exitosamente.
+2>Árbol de géneros:
+3>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre -1 e idGenero 18.
+4>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 18 e idGenero 22.
+5>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 18 e idGenero 23.
+6>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 18 e idGenero 24.
+7>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 22 e idGenero 15.
+8>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 22 e idGenero 16.
+9>Árbol de géneros:
+18 - Terror
+    24 - Accion
+    23 - Comedia
+    22 - Drama
+        16 - Comedia
+        15 - Comedia
+10>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 23 e idGenero 40.
+11>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 23 e idGenero 41.
+12>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 23 e idGenero 44.
+13>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 23 e idGenero 48.
+14>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 44 e idGenero 100.
+15>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 41 e idGenero 88.
+16>Árbol de géneros:
+18 - Terror
+    24 - Accion
+    23 - Comedia
+        48 - Comedia
+        44 - Historica
+            100 - Terror
+        41 - Romance
+            88 - Drama
+        40 - Historica
+    22 - Drama
+        16 - Comedia
+        15 - Comedia
+17>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 100 e idGenero 101.
+18>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 101 e idGenero 102.
+19>Árbol de géneros:
+18 - Terror
+    24 - Accion
+    23 - Comedia
+        48 - Comedia
+        44 - Historica
+            100 - Terror
+                101 - Terror
+                    102 - Historica
+        41 - Romance
+            88 - Drama
+        40 - Historica
+    22 - Drama
+        16 - Comedia
+        15 - Comedia
+20>Se ejecutó 'liberarTAGGeneros' exitosamente.
+21>Fin.

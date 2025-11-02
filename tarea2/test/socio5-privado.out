@@ -1,0 +1,44 @@
+1>#  Crear y mostrar socio sin generos favoritos.
+2>Socio de ci 12345678 creado exitosamente.
+3>La CI del socio es: 12345678
+4>El nombre del socio es: Pedro
+El apellido del socio es: Alfonso
+5>La fecha de alta del socio es: 4/6/2000
+6>Socio 12345678: Pedro Alfonso
+Fecha de alta: 4/6/2000
+Géneros favoritos: 
+7>#  Agregar un genero favorito a Pedro.
+8>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 3 exitosamente.
+9>Socio 12345678: Pedro Alfonso
+Fecha de alta: 4/6/2000
+Géneros favoritos: 3 
+10>#  Test de copia de socio con generos favoritos.
+11>Socio copiado. Datos de la copia:
+Socio 12345678: Pedro Alfonso
+Fecha de alta: 4/6/2000
+Géneros favoritos: 3 
+12>#  Liberar socio.
+13>Se ejecutó 'liberarTSocio' exitosamente.
+14>#  Crear y mostrar socio sin generos favoritos.
+15>Socio de ci 23456789 creado exitosamente.
+16>La CI del socio es: 23456789
+17>El nombre del socio es: Juan
+El apellido del socio es: Ramirez
+18>La fecha de alta del socio es: 4/6/2020
+19>Socio 23456789: Juan Ramirez
+Fecha de alta: 4/6/2020
+Géneros favoritos: 
+20>#  Juan tiene dos generos favoritos.
+21>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 3 exitosamente.
+22>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 2 exitosamente.
+23>El socio tiene 2 género/s favorito/s.
+24>El género de id 2 es uno de los favoritos del socio.
+25>El género de id 1 NO es uno de los favoritos del socio.
+26>#  Test de copia de socio con dos generos favoritos.
+27>Socio copiado. Datos de la copia:
+Socio 23456789: Juan Ramirez
+Fecha de alta: 4/6/2020
+Géneros favoritos: 3 2 
+28>#  Liberar Socio.
+29>Se ejecutó 'liberarTSocio' exitosamente.
+30>Fin.

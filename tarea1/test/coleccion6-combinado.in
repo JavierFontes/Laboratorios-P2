@@ -1,0 +1,57 @@
+crearColeccion
+
+crearFecha 01/10/1995
+crearLibro 843397030 "Ensayo sobre la ceguera" "José" "Saramago" "Una epidemia de ceguera azota a una ciudad, revelando lo peor del ser humano" 2
+agregarEnColeccion
+
+crearFecha 16/07/1951
+crearLibro 316769177 "El guardián en el centeno" "J.D." "Salinger" "Holden narra sus días tras ser expulsado del colegio, en busca de sentido" 1
+agregarEnColeccion
+
+crearFecha 01/05/1992
+crearLibro 140003446 "Jazz" "Toni" "Morrison" "Una historia de amor y crimen en el Harlem de los años 20" 3
+agregarEnColeccion
+
+crearFecha 01/01/2008
+crearLibro 880619315 "La soledad de los números primos" "Paolo" "Giordano" "Dos almas heridas incapaces de coincidir en el amor" 1
+agregarEnColeccion
+
+crearFecha 26/06/1997
+crearLibro 171819202 "Harry Potter y la piedra filosofal" "J.K." "Rowling" "Un niño mago descubre su destino en la escuela Hogwarts" 6
+agregarEnColeccion
+
+crearFecha 01/01/2002
+crearLibro 849550144 "Juventud" "J.M." "Coetzee" "Un joven sudafricano busca sentido en su vida y vocación en Londres" 4
+agregarEnColeccion
+
+crearFecha 01/01/1971
+crearLibro 204578912 "Las venas abiertas de América Latina" "Eduardo" "Galeano" "Un ensayo crítico sobre la historia de la explotación en América Latina" 7
+agregarEnColeccion
+
+crearFecha 28/01/1813
+crearLibro 111213141 "Orgullo y prejuicio" "Jane" "Austen" "Elizabeth Bennet enfrenta el amor y los prejuicios de su época" 1
+agregarEnColeccion
+
+crearFecha 01/01/1980
+crearLibro 222324252 "El nombre de la rosa" "Umberto" "Eco" "Un fraile investiga misteriosos asesinatos en una abadía medieval" 3
+agregarEnColeccion
+
+crearFecha 01/01/1993
+crearLibro 214589721 "Las aventuras del sapo Ruperto" "Roy" "Berocay" "Un simpático sapo uruguayo vive divertidas y valientes aventuras" 9
+agregarEnColeccion
+
+imprimirColeccion
+
+removerDeColeccion 8
+removerDeColeccion 10
+removerDeColeccion 4
+
+imprimirColeccion
+
+imprimirLibrosGeneroColeccion 13
+
+imprimirLibrosGeneroColeccion 1
+
+liberarColeccion
+
+Fin

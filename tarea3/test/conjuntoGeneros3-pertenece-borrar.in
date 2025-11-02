@@ -1,0 +1,27 @@
+crearConjuntoGeneros 3
+insertarConjuntoGeneros 2
+perteneceConjuntoGeneros 2
+insertarConjuntoGeneros 0
+insertarConjuntoGeneros 1
+perteneceConjuntoGeneros 0
+perteneceConjuntoGeneros 1
+perteneceConjuntoGeneros 2
+perteneceConjuntoGeneros 3
+perteneceConjuntoGeneros 4
+imprimirConjuntoGeneros
+borrarDeConjuntoGeneros 0
+borrarDeConjuntoGeneros 1
+borrarDeConjuntoGeneros 2
+imprimirConjuntoGeneros
+cardinalConjuntoGeneros
+cantMaxConjuntoGeneros
+insertarConjuntoGeneros 0
+borrarDeConjuntoGeneros 2
+insertarConjuntoGeneros 1
+esVacioConjuntoGeneros
+cardinalConjuntoGeneros
+cantMaxConjuntoGeneros
+borrarDeConjuntoGeneros 1
+imprimirConjuntoGeneros
+liberarConjuntoGeneros
+Fin

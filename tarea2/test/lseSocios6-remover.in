@@ -1,0 +1,101 @@
+crearLSESocios
+
+# no existe
+existeSocioLSESocios 12345678
+
+# ---------------------------------------------------------------------
+# inserta primer elemento
+crearSocio 12345678 Juan Perez 18 11 2000
+insertarLSESocios  
+
+# ---------------------------------------------------------------------
+# existe
+existeSocioLSESocios 12345678
+
+# ---------------------------------------------------------------------
+# remover unico elemento
+removerSocioLSESocios 12345678
+
+# ---------------------------------------------------------------------
+# no existe
+existeSocioLSESocios 12345678
+
+# ---------------------------------------------------------------------
+# inserta primer elemento
+crearSocio 12345678 Charlie Brown 30 10 2005
+insertarLSESocios  
+
+# 
+# inserta al final
+crearSocio 34567890 Lucas Hernandez 30 10 2010
+insertarLSESocios   
+
+# 
+# inserta al principio
+crearSocio 23456789 Juan Olivera 10 11 2000
+insertarLSESocios 
+
+# 
+# existen todas
+existeSocioLSESocios 12345678
+existeSocioLSESocios 34567890
+existeSocioLSESocios 23456789
+
+# 
+# remover del inicio
+removerSocioLSESocios 23456789
+
+# 
+# no existe
+existeSocioLSESocios 23456789
+
+# 
+# remover del final
+removerSocioLSESocios 34567890
+
+# 
+# no existe
+existeSocioLSESocios 34567890
+
+# 
+# existe
+existeSocioLSESocios 12345678
+
+# 
+# inserta al final
+crearSocio 34567890 Lucas Hernandez 30 10 2010
+insertarLSESocios 
+
+# 
+# inserta al principio
+crearSocio 23456789 Juan Olivera 10 11 2000
+insertarLSESocios  
+
+# 
+# empate de fechas en el medio
+crearSocio 56789012 Jim Dear 10 03 2004
+insertarLSESocios
+crearSocio 67890123 Pedro Martinez 10 03 2004
+insertarLSESocios   
+
+# 
+# existe
+existeSocioLSESocios 56789012
+
+# 
+# remover del medio
+removerSocioLSESocios 12345678
+
+# 
+# no existe 
+existeSocioLSESocios 12345678
+
+# 
+# existen todas
+existeSocioLSESocios 23456789
+existeSocioLSESocios 34567890
+existeSocioLSESocios 56789012
+existeSocioLSESocios 67890123
+
+liberarLSESocios
+Fin

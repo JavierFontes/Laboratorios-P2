@@ -1,0 +1,17 @@
+1>Socio de ci 12345678 creado exitosamente.
+2>3>4>Reserva de libro de isbn 411222335 a socio 12345678 creada exitosamente.
+5>Socio de la reserva:
+Socio 12345678: Jim Dear
+Fecha de alta: 10/3/2004
+Géneros favoritos: 
+6>Libro de la reserva:
+Libro 411222335
+Título: Todos los fuegos el fuego
+Autor: Julio Cortázar
+Descripción: Ocho cuentos que combinan lo cotidiano con lo fantástico
+Género: 1
+Fecha de edición: 1/1/1966
+7>Reserva copiada. Datos de la copia:
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+8>Se ejecutó 'liberarTReserva' exitosamente.
+9>Fin.

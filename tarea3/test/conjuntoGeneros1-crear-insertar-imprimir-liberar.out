@@ -1,0 +1,15 @@
+1>Se creó conjunto generos con cantMax 4 exitosamente.
+2>Conjunto de generos:
+
+3>Se ejecutó 'liberarTConjuntoGeneros' exitosamente.
+4>Se creó conjunto generos con cantMax 2 exitosamente.
+5>Se ejecutó 'insertarTConjuntoGeneros con genero de id 1 exitosamente.
+6>Se ejecutó 'insertarTConjuntoGeneros con genero de id 5 exitosamente.
+7>Se ejecutó 'insertarTConjuntoGeneros con genero de id 1 exitosamente.
+8>Conjunto de generos:
+1
+9>Se ejecutó 'insertarTConjuntoGeneros con genero de id 0 exitosamente.
+10>Conjunto de generos:
+0 1
+11>Se ejecutó 'liberarTConjuntoGeneros' exitosamente.
+12>Fin.

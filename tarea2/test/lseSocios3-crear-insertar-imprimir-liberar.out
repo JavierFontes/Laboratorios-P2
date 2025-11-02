@@ -1,0 +1,60 @@
+1>Se ejecutó crearTLSESocios exitosamente.
+2>Lista de Socios:
+3>4>Se ejecutó crearTLSESocios exitosamente.
+5>#  inserta primer elemento.
+6>Socio de ci 12345678 creado exitosamente.
+7>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 1 exitosamente.
+8>Socio de CI 12345678 agregado a la lista de socios de forma exitosa.
+9>Lista de Socios:
+Socio 12345678: Juan Perez
+Fecha de alta: 18/11/2005
+Géneros favoritos: 1 
+10>#  inserta al principio.
+11>Socio de ci 23456789 creado exitosamente.
+12>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 2 exitosamente.
+13>Socio de CI 23456789 agregado a la lista de socios de forma exitosa.
+14>Lista de Socios:
+Socio 23456789: Shaggy Rogers
+Fecha de alta: 25/2/2000
+Géneros favoritos: 2 
+Socio 12345678: Juan Perez
+Fecha de alta: 18/11/2005
+Géneros favoritos: 1 
+15>#  inserta al final.
+16>Socio de ci 34567890 creado exitosamente.
+17>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 3 exitosamente.
+18>Socio de CI 34567890 agregado a la lista de socios de forma exitosa.
+19>Lista de Socios:
+Socio 23456789: Shaggy Rogers
+Fecha de alta: 25/2/2000
+Géneros favoritos: 2 
+Socio 12345678: Juan Perez
+Fecha de alta: 18/11/2005
+Géneros favoritos: 1 
+Socio 34567890: Charlie Brown
+Fecha de alta: 30/10/2010
+Géneros favoritos: 3 
+20>#  empate de fechas en el medio.
+21>Socio de ci 56789012 creado exitosamente.
+22>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 5 exitosamente.
+23>Socio de CI 56789012 agregado a la lista de socios de forma exitosa.
+24>Socio de ci 67890123 creado exitosamente.
+25>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 6 exitosamente.
+26>Socio de CI 67890123 agregado a la lista de socios de forma exitosa.
+27>Lista de Socios:
+Socio 23456789: Shaggy Rogers
+Fecha de alta: 25/2/2000
+Géneros favoritos: 2 
+Socio 56789012: Jim Dear
+Fecha de alta: 10/3/2003
+Géneros favoritos: 5 
+Socio 67890123: Pedro Martinez
+Fecha de alta: 10/3/2003
+Géneros favoritos: 6 
+Socio 12345678: Juan Perez
+Fecha de alta: 18/11/2005
+Géneros favoritos: 1 
+Socio 34567890: Charlie Brown
+Fecha de alta: 30/10/2010
+Géneros favoritos: 3 
+28>29>Fin.

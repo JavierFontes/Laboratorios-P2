@@ -1,0 +1,35 @@
+1>Biblioteca creada exitosamente.
+2>Socio de ci 111 creado exitosamente.
+3>Socio de CI 111 agregado a la biblioteca.
+4>Socio de ci 222 creado exitosamente.
+5>Socio de CI 222 agregado a la biblioteca.
+6>Socio de ci 333 creado exitosamente.
+7>Socio de CI 333 agregado a la biblioteca.
+8>Socio de ci 444 creado exitosamente.
+9>Socio de CI 444 agregado a la biblioteca.
+10>11>12>Libro de ISBN 1001 agregado a la biblioteca.
+13>14>15>Libro de ISBN 1002 agregado a la biblioteca.
+16>17>Préstamo del libro 1001 al socio 111 registrado.
+18>19>Préstamo del libro 1002 al socio 222 registrado.
+20>LDE Préstamos:
+Préstamo de libro El Aleph a Ana Garcia.
+1/9/2025
+No retornado
+Préstamo de libro Ficciones a Bruno Fernandez.
+2/9/2025
+No retornado
+21>Reserva del libro 1001 para el socio 222 registrada.
+22>Cola de Reservas:
+Reserva de libro El Aleph por Bruno Fernandez.
+23>24>Devolución del libro 1001 por el socio 111 registrada.
+25>LDE Préstamos:
+Préstamo de libro El Aleph a Ana Garcia.
+1/9/2025
+15/9/2025
+Préstamo de libro Ficciones a Bruno Fernandez.
+2/9/2025
+No retornado
+26>Cola de Reservas:
+Reserva de libro El Aleph por Bruno Fernandez.
+27>Biblioteca liberada exitosamente.
+28>Fin.

@@ -1,0 +1,15 @@
+1>Socio de ci 12345678 creado exitosamente.
+2>3>4>5>Préstamo de libro de isbn 411222335 a socio 12345678 creado exitosamente.
+6>Préstamo de libro Todos los fuegos el fuego a Jim Dear.
+8/9/2024
+No retornado
+7>El préstamo NO fue retornado.
+8>9>Se actualizó la fecha de devolución del préstamo.
+10>Fecha de devolución del préstamo:
+8/10/2024
+11>El préstamo fue retornado.
+12>Préstamo de libro Todos los fuegos el fuego a Jim Dear.
+8/9/2024
+8/10/2024
+13>Se ejecutó 'liberarTPrestamo' exitosamente.
+14>Fin.

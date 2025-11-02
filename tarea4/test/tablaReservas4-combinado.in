@@ -1,0 +1,53 @@
+crearTabla 10 5
+liberarTabla
+
+crearTabla 10 5
+crearSocio 12345678 Jim Dear 10 03 2004 2
+crearFecha 01/01/1966
+crearLibro 111111111 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 1
+crearReserva
+insertarEnTabla 111111111
+crearSocio 12345677 Ana Martinez 10 03 2004 4
+crearFecha 01/05/1992
+crearLibro 222222222 "Jazz" "Toni" "Morrison" "Una historia de amor y crimen en el Harlem de los años 20" 3
+crearReserva
+insertarEnTabla 222222222
+obtenerDeTabla 111111111
+obtenerDeTabla 222222222
+perteneceATabla 12345678 111111111
+perteneceATabla 12345677 222222222
+
+crearSocio 23456789 Lucia Perez 10 03 2010 10
+crearFecha 01/01/1961
+crearLibro 123456780 "La ratesa" "Günter" "Grass" "Una alegoría postnuclear narrada por una rata parlante que reflexiona sobre la historia" 2
+crearReserva
+insertarEnTabla 123456780
+crearSocio 23456799 Carla Ramirez 10 03 2010 5
+crearFecha 01/01/1961
+crearLibro 123456790 "Lo bello y lo triste" "Yasunari" "Kawabata" "Un escritor se reencuentra con una amante del pasado en una historia de dolor y deseo" 1
+crearReserva
+insertarEnTabla 123456790
+obtenerDeTabla 123456780
+obtenerDeTabla 123456790
+
+crearSocio 34567890 Juan Diaz 10 03 2005 2
+crearFecha 01/01/1961
+crearLibro 123456790 "Lo bello y lo triste" "Yasunari" "Kawabata" "Un escritor se reencuentra con una amante del pasado en una historia de dolor y deseo" 1
+crearReserva
+insertarEnTabla 123456790
+crearSocio 45678912 Pedro Flores 10 03 2010 3
+crearFecha 01/01/1961
+crearLibro 123456780 "La ratesa" "Günter" "Grass" "Una alegoría postnuclear narrada por una rata parlante que reflexiona sobre la historia" 2
+crearReserva
+insertarEnTabla 123456780
+obtenerSigReservaDeTabla 123456780
+obtenerSigReservaDeTabla 123456790
+
+perteneceATabla 45678912 123456780
+perteneceATabla 34567890 123456790
+perteneceATabla 1 111111111
+perteneceATabla 2 222222222
+perteneceATabla 3 111111111
+perteneceATabla 4 222222222
+liberarTabla
+Fin

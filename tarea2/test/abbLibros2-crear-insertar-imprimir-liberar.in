@@ -1,0 +1,64 @@
+crearABBLibrosVacio
+imprimirABBLibros
+liberarABBLibros
+
+crearABBLibrosVacio
+
+crearFecha 01/05/1992
+crearLibro 140003446 "Jazz" "Toni" "Morrison" "Una historia de amor y crimen en el Harlem de los años 20" 3
+insertarLibroABBLibros
+
+crearFecha 01/01/1971
+crearLibro 204578912 "Las venas abiertas de América Latina" "Eduardo" "Galeano" "Un ensayo crítico sobre la historia de la explotación en América Latina" 7
+insertarLibroABBLibros
+
+crearFecha 16/07/1951
+crearLibro 316769177 "El guardián en el centeno" "J.D." "Salinger" "Holden narra sus días tras ser expulsado del colegio, en busca de sentido" 1
+insertarLibroABBLibros
+
+crearFecha 01/09/2005
+crearLibro 999001122 "Nunca me abandones" "Kazuo" "Ishiguro" "Jóvenes clonados enfrentan su destino en un mundo distópico" 2
+insertarLibroABBLibros
+
+imprimirABBLibros
+
+# -----------------------------
+
+# Inserto en el medio
+
+crearFecha 26/06/1997
+crearLibro 171819202 "Harry Potter y la piedra filosofal" "J.K." "Rowling" "Un niño mago descubre su destino en la escuela Hogwarts" 6
+insertarLibroABBLibros
+
+crearFecha 01/10/1995
+crearLibro 843397030 "Ensayo sobre la ceguera" "José" "Saramago" "Una epidemia de ceguera azota a una ciudad, revelando lo peor del ser humano" 2
+insertarLibroABBLibros
+
+crearFecha 01/01/2002
+crearLibro 849550144 "Juventud" "J.M." "Coetzee" "Un joven sudafricano busca sentido en su vida y vocación en Londres" 4
+insertarLibroABBLibros
+
+crearFecha 01/01/2008
+crearLibro 880619315 "La soledad de los números primos" "Paolo" "Giordano" "Dos almas heridas incapaces de coincidir en el amor" 1
+insertarLibroABBLibros
+
+imprimirABBLibros
+
+# -----------------------------
+
+# Inserto al principio
+
+crearFecha 28/01/1813
+crearLibro 111213141 "Orgullo y prejuicio" "Jane" "Austen" "Elizabeth Bennet enfrenta el amor y los prejuicios de su época" 1
+insertarLibroABBLibros
+
+crearFecha 08/06/1949
+crearLibro 123456789 "1984" "George" "Orwell" "Un régimen totalitario controla hasta los pensamientos de sus ciudadanos" 2
+insertarLibroABBLibros
+
+imprimirABBLibros
+
+# -----------------------------
+
+liberarABBLibros
+Fin

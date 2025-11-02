@@ -1,0 +1,71 @@
+crearABBLibrosVacio
+
+filtradoPorGeneroABBLibros 1
+
+crearFecha 01/05/1992
+crearLibro 140003446 "Jazz" "Toni" "Morrison" "Una historia de amor y crimen en el Harlem de los años 20" 3
+insertarLibroABBLibros
+
+filtradoPorGeneroABBLibros 3
+filtradoPorGeneroABBLibros 1
+filtradoPorGeneroABBLibros 2
+filtradoPorGeneroABBLibros 4
+
+crearFecha 01/01/1971
+crearLibro 204578912 "Las venas abiertas de América Latina" "Eduardo" "Galeano" "Un ensayo crítico sobre la historia de la explotación en América Latina" 7
+insertarLibroABBLibros
+
+crearFecha 16/07/1951
+crearLibro 316769177 "El guardián en el centeno" "J.D." "Salinger" "Holden narra sus días tras ser expulsado del colegio, en busca de sentido" 1
+insertarLibroABBLibros
+
+crearFecha 01/01/1869
+crearLibro 101112131 "Guerra y paz" "León" "Tolstói" "Épica historia sobre la nobleza rusa durante las guerras napoleónicas" 3
+insertarLibroABBLibros
+
+crearFecha 05/04/1974
+crearLibro 311122334 "Carrie" "Stephen" "King" "Una adolescente con poderes telequinéticos enfrenta el abuso y el horror" 2
+insertarLibroABBLibros
+
+crearFecha 19/10/1953
+crearLibro 151617181 "Fahrenheit 451" "Ray" "Bradbury" "Un bombero quema libros en una sociedad donde leer es delito" 2
+insertarLibroABBLibros
+
+crearFecha 01/09/2005
+crearLibro 999001122 "Nunca me abandones" "Kazuo" "Ishiguro" "Jóvenes clonados enfrentan su destino en un mundo distópico" 2
+insertarLibroABBLibros
+
+crearFecha 01/10/1995
+crearLibro 843397030 "Ensayo sobre la ceguera" "José" "Saramago" "Una epidemia de ceguera azota a una ciudad, revelando lo peor del ser humano" 2
+insertarLibroABBLibros
+
+crearFecha 17/09/1951
+crearLibro 194512348 "Bestiario" "Julio" "Cortázar" "Siete cuentos extraños y perturbadores que exploran lo fantástico en lo cotidiano" 1
+insertarLibroABBLibros
+
+crearFecha 01/01/1952
+crearLibro 121314151 "El viejo y el mar" "Ernest" "Hemingway" "Un viejo pescador enfrenta al mar en una lucha silenciosa" 1
+insertarLibroABBLibros
+
+crearFecha 01/01/1989
+crearLibro 224512789 "El palacio de la luna" "Paul" "Auster" "Un joven cae en la pobreza y encuentra sentido en un viaje inesperado" 1
+insertarLibroABBLibros
+
+crearFecha 01/01/2008
+crearLibro 880619315 "La soledad de los números primos" "Paolo" "Giordano" "Dos almas heridas incapaces de coincidir en el amor" 1
+insertarLibroABBLibros
+
+# 1 elemento
+filtradoPorGeneroABBLibros 7
+
+# 2 elementos
+filtradoPorGeneroABBLibros 3
+
+# 4 elementos
+filtradoPorGeneroABBLibros 2
+
+# 5 elementos
+filtradoPorGeneroABBLibros 1
+
+liberarABBLibros
+Fin

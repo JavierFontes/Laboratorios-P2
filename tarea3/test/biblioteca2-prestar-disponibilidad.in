@@ -1,0 +1,20 @@
+crearBiblioteca
+crearSocio 12345678 Jim Dear 10 03 2004
+agregarSocioBiblioteca
+crearSocio 23456789 Lucia Perez 10 03 2010
+agregarSocioBiblioteca
+crearFecha 01/01/1966
+crearLibro 411222335 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos" 1
+agregarLibroBiblioteca
+crearFecha 01/01/1961
+crearLibro 421233446 "La ratesa" "Günter" "Grass" "Una alegoría" 2
+agregarLibroBiblioteca
+disponibleLibroBiblioteca 411222335
+disponibleLibroBiblioteca 421233446
+crearFecha 01/03/1970
+prestarLibroBiblioteca 12345678 411222335
+imprimirPrestamosBiblioteca
+disponibleLibroBiblioteca 411222335
+disponibleLibroBiblioteca 421233446
+liberarBiblioteca
+Fin

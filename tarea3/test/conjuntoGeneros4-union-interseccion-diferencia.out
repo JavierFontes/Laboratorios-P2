@@ -1,0 +1,37 @@
+1>Se creó conjunto generos con cantMax 10 exitosamente.
+2>Se ejecutó 'insertarTConjuntoGeneros con genero de id 0 exitosamente.
+3>Se ejecutó 'insertarTConjuntoGeneros con genero de id 1 exitosamente.
+4>Se ejecutó 'insertarTConjuntoGeneros con genero de id 2 exitosamente.
+5>Se ejecutó 'insertarTConjuntoGeneros con genero de id 3 exitosamente.
+6>Se ejecutó 'insertarTConjuntoGeneros con genero de id 6 exitosamente.
+7>Se ejecutó 'insertarTConjuntoGeneros con genero de id 7 exitosamente.
+8>Se ejecutó 'insertarTConjuntoGeneros con genero de id 8 exitosamente.
+9>Se ejecutó 'insertarTConjuntoGeneros con genero de id 9 exitosamente.
+10>Conjunto de generos:
+0 1 2 3 6 7 8 9
+11>#  unión con 1.
+12>Conjunto de generos unión:
+0 1 2 3 6 7 8 9
+13>#  intersección con 1.
+14>Conjunto de generos intersección:
+1
+15>#  diferencia con 1.
+16>Conjunto de generos diferencia:
+0 2 3 6 7 8 9
+17>#  intersección con 1 3 4 5 6.
+18>Conjunto de generos intersección:
+1 3 6
+19>#  diferencia con 1 3 4 5 6.
+20>Conjunto de generos diferencia:
+0 2 7 8 9
+21>#  unión con conjunto vacío.
+22>Conjunto de generos unión:
+0 1 2 3 6 7 8 9
+23>#  intersección con conjunto vacío.
+24>Conjunto de generos intersección:
+
+25>#  diferencia con conjunto vacío.
+26>Conjunto de generos diferencia:
+0 1 2 3 6 7 8 9
+27>Se ejecutó 'liberarTConjuntoGeneros' exitosamente.
+28>Fin.

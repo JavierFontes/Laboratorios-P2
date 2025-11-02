@@ -1,0 +1,27 @@
+1>Se creó una cola de prioridad de reservas con cantidad maxima 5
+2>Socio de ci 12345678 creado exitosamente.
+3>4>5>Reserva de libro de isbn 411222335 a socio 12345678 creada exitosamente.
+6>Se insertó la reserva en la cola de prioridad.
+7>Socio de ci 12345677 creado exitosamente.
+8>9>10>Reserva de libro de isbn 411222335 a socio 12345677 creada exitosamente.
+11>Se insertó la reserva en la cola de prioridad.
+12>Socio de ci 12345679 creado exitosamente.
+13>14>15>Reserva de libro de isbn 411222335 a socio 12345679 creada exitosamente.
+16>Se insertó la reserva en la cola de prioridad.
+17>Socio de ci 23456789 creado exitosamente.
+18>19>20>Reserva de libro de isbn 411222335 a socio 23456789 creada exitosamente.
+21>Se insertó la reserva en la cola de prioridad.
+22>La reserva del socio con ci 12345678 y libro de isbn 411222335 está en la cola de prioridad.
+23>La reserva del socio con ci 12345677 y libro de isbn 411222335 está en la cola de prioridad.
+24>La reserva del socio con ci 12345679 y libro de isbn 411222335 está en la cola de prioridad.
+25>La reserva del socio con ci 23456789 y libro de isbn 411222335 está en la cola de prioridad.
+26>La reserva del socio con ci 12345678 y libro de isbn 411222336 NO está en la cola de prioridad.
+27>La reserva del socio con ci 12345677 y libro de isbn 411222337 NO está en la cola de prioridad.
+28>La reserva del socio con ci 12345679 y libro de isbn 411222338 NO está en la cola de prioridad.
+29>La reserva del socio con ci 23456789 y libro de isbn 411222339 NO está en la cola de prioridad.
+30>La prioridad de la reserva del socio con ci 12345678 y libro de isbn 411222335 es 2
+31>La prioridad de la reserva del socio con ci 12345677 y libro de isbn 411222335 es 1
+32>La prioridad de la reserva del socio con ci 12345679 y libro de isbn 411222335 es 3
+33>La prioridad de la reserva del socio con ci 23456789 y libro de isbn 411222335 es 4
+34>Se liberó la cola de prioridad de reservas
+35>Fin.

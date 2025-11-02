@@ -1,0 +1,142 @@
+# Se crea ABBLibros vacío
+crearABBLibrosVacio
+
+# Se crea Libro con ISBN 12
+crearFecha 26/06/1997
+crearLibro 12 "Harry Potter y la piedra filosofal" "J.K." "Rowling" "Un niño mago descubre su destino en la escuela Hogwarts" 6
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se crea Libro con ISBN 25
+crearFecha 01/09/2005
+crearLibro 25 "Nunca me abandones" "Kazuo" "Ishiguro" "Jóvenes clonados enfrentan su destino en un mundo distópico" 2
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se crea Libro con ISBN 18
+crearFecha 16/07/1951
+crearLibro 18 "El guardián en el centeno" "J.D." "Salinger" "Holden narra sus días tras ser expulsado del colegio, en busca de sentido" 1
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se crea Libro con ISBN 29
+crearFecha 01/01/1971
+crearLibro 29 "Las venas abiertas de América Latina" "Eduardo" "Galeano" "Un ensayo crítico sobre la historia de la explotación en América Latina" 7
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se crea Libro con ISBN 35
+crearFecha 01/10/1995
+crearLibro 35 "Ensayo sobre la ceguera" "José" "Saramago" "Una epidemia de ceguera azota a una ciudad, revelando lo peor del ser humano" 2
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se crea Libro con ISBN 17
+crearFecha 01/01/2002
+crearLibro 17 "Juventud" "J.M." "Coetzee" "Un joven sudafricano busca sentido en su vida y vocación en Londres" 4
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se crea Libro con ISBN 23
+crearFecha 28/01/1813
+crearLibro 23 "Orgullo y prejuicio" "Jane" "Austen" "Elizabeth Bennet enfrenta el amor y los prejuicios de su época" 1
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se crea Libro con ISBN 45
+crearFecha 08/06/1949
+crearLibro 45 "1984" "George" "Orwell" "Un régimen totalitario controla hasta los pensamientos de sus ciudadanos" 2
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se crea Libro con ISBN 9
+crearFecha 01/01/2003
+crearLibro 9 "La noche del oráculo" "Paul" "Auster" "Un escritor se obsesiona con una historia que parece volverse real" 1
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se crea Libro con ISBN 5
+crearFecha 01/09/1977
+crearLibro 5 "El resplandor" "Stephen" "King" "Una familia se aísla en un hotel donde fuerzas sobrenaturales influyen en la mente del padre" 2
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se crea Libro con ISBN 31
+crearFecha 01/08/1965
+crearLibro 31 "Dune" "Frank" "Herbert" "Una lucha política y espiritual en el desierto del planeta Arrakis" 5
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se crea Libro con ISBN 42
+crearFecha 01/01/1989
+crearLibro 42 "Los restos del día" "Kazuo" "Ishiguro" "Un mayordomo rememora su vida y su lealtad ciega durante entreguerras" 1
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se crea Libro con ISBN 7
+crearFecha 01/01/1983
+crearLibro 7 "La pianista" "Elfriede" "Jelinek" "Una profesora de piano vive una vida reprimida bajo el dominio de su madre" 1
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se crea Libro con ISBN 20
+crearFecha 11/11/1954
+crearLibro 20 "Las dos torres" "J.R.R." "Tolkien" "La comunidad del anillo se divide y continúa su lucha contra el poder oscuro" 6
+# Se inserta Libro en ABBLibros
+insertarLibroABBLibros
+
+# Se obtiene la altura 6 del árbol
+alturaABBLibros
+
+# Se verifica que NO existe Libro con ISBN 6
+existeLibroABBLibros 6
+# Se verifica si existe Libro con ISBN 35
+existeLibroABBLibros 35
+# Se verifica que existe Libro con ISBN 45
+existeLibroABBLibros 45
+# Se verifica que existe Libro con ISBN 18
+existeLibroABBLibros 18
+# Se verifica que NO existe Libro con ISBN 16
+existeLibroABBLibros 16
+
+# Se obtiene el ISBN máximo 45 del árbol
+maxISBNLibroABBLibros
+
+# Se obtiene la cantidad de 14 elementos del árbol
+cantidadABBLibros
+
+# Se remueve Libro con ISBN 35
+removerLibroABBLibros 35
+# Se remueve Libro con ISBN 45
+removerLibroABBLibros 45
+# Se remueve Libro con ISBN 12
+removerLibroABBLibros 12
+# Se remueve Libro con ISBN 42
+removerLibroABBLibros 42
+
+# Se obtiene la cantidad de 10 elementos del árbol
+cantidadABBLibros
+# Se obtiene la altura 5 actualizada del árbol
+alturaABBLibros
+
+# Se verifica que existe Libro con ISBN 18
+existeLibroABBLibros 18
+
+# Se verifica NO existe Libro con ISBN 45
+existeLibroABBLibros 45
+
+# Se obtiene el ISBN máximo 31 actualizado del árbol
+maxISBNLibroABBLibros
+
+# Se obtiene el quinto Libro El guardián en el centeno del árbol según el recorrido inorden
+obtenerNesimoLibroABBLibros 5
+
+# Se obtiene el septimo Libro Orgullo y prejuicio del árbol según el recorrido inorden
+obtenerNesimoLibroABBLibros 7
+
+# Se obtiene el primer Libro El resplandor del árbol según el recorrido inorden
+obtenerNesimoLibroABBLibros 1
+
+# Se libera la memoria del árbol
+liberarABBLibros
+Fin

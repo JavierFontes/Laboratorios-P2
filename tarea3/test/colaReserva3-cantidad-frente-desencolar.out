@@ -1,0 +1,42 @@
+1>Se ejecutó 'crearTColaReservas' exitosamente
+2>La cantidad de reservas en la cola es 0
+3>Socio de ci 12345678 creado exitosamente.
+4>5>6>Reserva de libro de isbn 411222335 a socio 12345678 creada exitosamente.
+7>Se ejecutó 'encolarTColaReservas' exitosamente.
+8>La cantidad de reservas en la cola es 1
+9>Se ejecutó 'desencolarTColaReservas' exitosamente
+10>Socio de ci 12345678 creado exitosamente.
+11>12>13>Reserva de libro de isbn 421233446 a socio 12345678 creada exitosamente.
+14>Se ejecutó 'encolarTColaReservas' exitosamente.
+15>La cantidad de reservas en la cola es 1
+16>Reserva obtenida al ejecutar frente:
+Reserva de libro La ratesa por Jim Dear.
+17>Se ejecutó 'desencolarTColaReservas' exitosamente
+18>Se ejecutó 'liberarTColaReservas' exitosamente
+19>Se ejecutó 'crearTColaReservas' exitosamente
+20>Socio de ci 12345678 creado exitosamente.
+21>22>23>Reserva de libro de isbn 431244557 a socio 12345678 creada exitosamente.
+24>Se ejecutó 'encolarTColaReservas' exitosamente.
+25>Reserva obtenida al ejecutar frente:
+Reserva de libro Lo bello y lo triste por Jim Dear.
+26>Socio de ci 12345678 creado exitosamente.
+27>28>29>Reserva de libro de isbn 843760494 a socio 12345678 creada exitosamente.
+30>Se ejecutó 'encolarTColaReservas' exitosamente.
+31>Reserva obtenida al ejecutar frente:
+Reserva de libro Lo bello y lo triste por Jim Dear.
+32>Socio de ci 23456789 creado exitosamente.
+33>34>35>Reserva de libro de isbn 421233446 a socio 23456789 creada exitosamente.
+36>Se ejecutó 'encolarTColaReservas' exitosamente.
+37>Reserva obtenida al ejecutar frente:
+Reserva de libro Lo bello y lo triste por Jim Dear.
+38>La cantidad de reservas en la cola es 3
+39>Socio de ci 45678901 creado exitosamente.
+40>41>42>Reserva de libro de isbn 843760494 a socio 45678901 creada exitosamente.
+43>Se ejecutó 'encolarTColaReservas' exitosamente.
+44>La cantidad de reservas en la cola es 4
+45>Se ejecutó 'desencolarTColaReservas' exitosamente
+46>Reserva obtenida al ejecutar frente:
+Reserva de libro Cien años de soledad por Jim Dear.
+47>La cantidad de reservas en la cola es 3
+48>Se ejecutó 'liberarTColaReservas' exitosamente
+49>Fin.

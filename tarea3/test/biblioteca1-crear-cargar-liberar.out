@@ -1,0 +1,35 @@
+1>Biblioteca creada exitosamente.
+2>Socio de ci 12345678 creado exitosamente.
+3>Socio de CI 12345678 agregado a la biblioteca.
+4>Socio de ci 23456789 creado exitosamente.
+5>Socio de CI 23456789 agregado a la biblioteca.
+6>Lista de Socios:
+Socio 12345678: Jim Dear
+Fecha de alta: 10/3/2004
+Géneros favoritos: 
+Socio 23456789: Lucia Perez
+Fecha de alta: 10/3/2010
+Géneros favoritos: 
+7>8>9>Libro de ISBN 411222335 agregado a la biblioteca.
+10>11>12>Libro de ISBN 421233446 agregado a la biblioteca.
+13>14>15>Libro de ISBN 431244557 agregado a la biblioteca.
+16>Libro 411222335
+Título: Todos los fuegos el fuego
+Autor: Julio Cortázar
+Descripción: Ocho cuentos que combinan lo cotidiano con lo fantástico
+Género: 1
+Fecha de edición: 1/1/1966
+Libro 421233446
+Título: La ratesa
+Autor: Günter Grass
+Descripción: Una alegoría postnuclear narrada por una rata parlante
+Género: 2
+Fecha de edición: 1/1/1961
+Libro 431244557
+Título: Lo bello y lo triste
+Autor: Yasunari Kawabata
+Descripción: Un escritor se reencuentra con una amante del pasado
+Género: 1
+Fecha de edición: 1/1/1968
+17>Biblioteca liberada exitosamente.
+18>Fin.

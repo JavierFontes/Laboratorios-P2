@@ -1,0 +1,9 @@
+crearSocio 12345678 Jim Dear 10 03 2004
+crearFecha 01/01/1966
+crearLibro 411222335 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 1
+crearReserva
+socioReserva
+libroReserva
+copiarReserva
+liberarReserva
+Fin

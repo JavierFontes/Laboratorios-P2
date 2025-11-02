@@ -1,0 +1,16 @@
+1>Se ejecutó 'crearTAGGeneros' exitosamente.
+2>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre -1 e idGenero 44.
+3>El conjunto de generos es: 44
+4>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 44 e idGenero 17.
+5>El conjunto de generos es: 17 44
+6>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 44 e idGenero 15.
+7>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 17 e idGenero 23.
+8>El conjunto de generos es: 15 17 23 44
+9>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 17 e idGenero 40.
+10>El conjunto de generos es: 15 17 23 40 44
+11>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 23 e idGenero 3.
+12>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 15 e idGenero 88.
+13>El conjunto de generos es: 3 15 17 23 40 44 88
+14>El conjunto de generos es: 88
+15>Se ejecutó 'liberarTAGGeneros' exitosamente.
+16>Fin.

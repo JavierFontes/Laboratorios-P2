@@ -1,0 +1,18 @@
+crearBiblioteca
+crearSocio 12345678 Jim Dear 10 03 2004 
+agregarSocioBiblioteca
+crearSocio 23456789 Lucia Perez 10 03 2010
+agregarSocioBiblioteca
+imprimirSociosBiblioteca
+crearFecha 01/01/1966
+crearLibro 411222335 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 1
+agregarLibroBiblioteca
+crearFecha 01/01/1961
+crearLibro 421233446 "La ratesa" "Günter" "Grass" "Una alegoría postnuclear narrada por una rata parlante" 2
+agregarLibroBiblioteca
+crearFecha 01/01/1968
+crearLibro 431244557 "Lo bello y lo triste" "Yasunari" "Kawabata" "Un escritor se reencuentra con una amante del pasado" 1
+agregarLibroBiblioteca
+imprimirLibrosBiblioteca
+liberarBiblioteca
+Fin

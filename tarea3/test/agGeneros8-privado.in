@@ -1,0 +1,32 @@
+crearAGGeneros
+insertarAGGeneros -1 100 Accion
+insertarAGGeneros 100 110 Comedia
+insertarAGGeneros 100 120 Drama
+insertarAGGeneros 999 998 Romance
+imprimirAGGeneros
+existeGeneroAGGeneros 998
+existeGeneroAGGeneros 100
+insertarAGGeneros 120 121 Terror
+insertarAGGeneros 121 122 Historica
+insertarAGGeneros 122 123 Romance
+insertarAGGeneros 123 124 Musical
+imprimirAGGeneros
+alturaAGGeneros
+cantidadAGGeneros
+existeGeneroAGGeneros 123
+existeGeneroAGGeneros 125
+removerGeneroAGGeneros 121
+imprimirAGGeneros
+alturaAGGeneros
+cantidadAGGeneros
+existeGeneroAGGeneros 121
+existeGeneroAGGeneros 122
+existeGeneroAGGeneros 123
+existeGeneroAGGeneros 124
+insertarAGGeneros 110 201 Historica
+insertarAGGeneros 110 202 Romance
+imprimirAGGeneros
+alturaAGGeneros
+cantidadAGGeneros
+liberarAGGeneros
+Fin

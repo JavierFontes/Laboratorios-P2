@@ -1,0 +1,28 @@
+crearBiblioteca
+agregarGeneroABiblioteca -1 50 Accion
+agregarGeneroABiblioteca 50 18 Policial
+agregarGeneroABiblioteca 18 17 Noir
+agregarGeneroABiblioteca 17 100 Noir moderno
+agregarGeneroABiblioteca 18 13 Moderno
+agregarGeneroABiblioteca 50 22 Aventura
+crearFecha 01/01/1949
+crearLibro 1984 "1984" "George" "Orwell" "Distopía" 50
+agregarLibroBiblioteca
+crearFecha 01/01/1932
+crearLibro 1932 "Un mundo feliz" "Aldous" "Huxley" "Otra distopía" 22
+agregarLibroBiblioteca
+crearFecha 02/02/1960
+crearLibro 1933 "El Amor en los tiempos de colera" "Gabriel" "Garcia Marquez" "Romantico" 18
+agregarLibroBiblioteca
+crearFecha 03/03/1961
+crearLibro 1934 "Harry Potter" "JK" "Rowling" "Aventura" 18
+agregarLibroBiblioteca
+crearFecha 03/03/1961
+crearLibro 1935 "El extranjero" "Albert" "Camus" "Aventura" 100
+agregarLibroBiblioteca
+crearFecha 03/03/1961
+crearLibro 1936 "La insoportable levedad del ser" "Milan" "Kundera" "Romantico" 13
+agregarLibroBiblioteca
+obtenerLibrosDeGenero 18
+liberarBiblioteca
+Fin

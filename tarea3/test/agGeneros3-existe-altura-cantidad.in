@@ -1,0 +1,37 @@
+crearAGGeneros
+existeGeneroAGGeneros 2
+alturaAGGeneros
+cantidadAGGeneros
+insertarAGGeneros -1 44 Comedia
+existeGeneroAGGeneros 17
+existeGeneroAGGeneros 44
+existeGeneroAGGeneros 32
+alturaAGGeneros
+cantidadAGGeneros
+insertarAGGeneros 44 17 Historica
+insertarAGGeneros 44 15 Drama
+alturaAGGeneros
+cantidadAGGeneros
+existeGeneroAGGeneros 17
+existeGeneroAGGeneros 44
+existeGeneroAGGeneros 32
+insertarAGGeneros 17 18 Terror
+alturaAGGeneros
+cantidadAGGeneros
+insertarAGGeneros 15 105Terror
+alturaAGGeneros
+cantidadAGGeneros
+insertarAGGeneros 105 106 Drama
+alturaAGGeneros
+cantidadAGGeneros
+insertarAGGeneros 106 107 Historica
+alturaAGGeneros
+cantidadAGGeneros
+insertarAGGeneros 107 108 Comedia
+alturaAGGeneros
+cantidadAGGeneros
+insertarAGGeneros 108 109 Comedia
+alturaAGGeneros
+cantidadAGGeneros
+liberarAGGeneros
+Fin

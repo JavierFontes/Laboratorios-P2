@@ -1,0 +1,30 @@
+1>Se ejecutó 'crearTColaReservas' exitosamente
+2>Cola de Reservas:
+3>Socio de ci 12345678 creado exitosamente.
+4>5>6>Reserva de libro de isbn 411222335 a socio 12345678 creada exitosamente.
+7>Se ejecutó 'encolarTColaReservas' exitosamente.
+8>Cola de Reservas:
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+9>Socio de ci 12345678 creado exitosamente.
+10>11>12>Reserva de libro de isbn 421233446 a socio 12345678 creada exitosamente.
+13>Se ejecutó 'encolarTColaReservas' exitosamente.
+14>Cola de Reservas:
+Reserva de libro Todos los fuegos el fuego por Jim Dear.
+Reserva de libro La ratesa por Jim Dear.
+15>Se ejecutó 'liberarTColaReservas' exitosamente
+16>Se ejecutó 'crearTColaReservas' exitosamente
+17>Socio de ci 12345678 creado exitosamente.
+18>19>20>Reserva de libro de isbn 431244557 a socio 12345678 creada exitosamente.
+21>Se ejecutó 'encolarTColaReservas' exitosamente.
+22>Socio de ci 12345678 creado exitosamente.
+23>24>25>Reserva de libro de isbn 843760494 a socio 12345678 creada exitosamente.
+26>Se ejecutó 'encolarTColaReservas' exitosamente.
+27>Socio de ci 23456789 creado exitosamente.
+28>29>30>Reserva de libro de isbn 421233446 a socio 23456789 creada exitosamente.
+31>Se ejecutó 'encolarTColaReservas' exitosamente.
+32>Cola de Reservas:
+Reserva de libro Lo bello y lo triste por Jim Dear.
+Reserva de libro Cien años de soledad por Jim Dear.
+Reserva de libro La ratesa por Lucia Perez.
+33>Se ejecutó 'liberarTColaReservas' exitosamente
+34>Fin.

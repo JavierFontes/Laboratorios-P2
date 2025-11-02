@@ -1,0 +1,21 @@
+crearAGGeneros
+imprimirAGGeneros
+insertarAGGeneros -1 18 Terror
+insertarAGGeneros 18 22 Drama
+insertarAGGeneros 18 23 Comedia
+insertarAGGeneros 18 24 Accion
+insertarAGGeneros 22 15 Comedia
+insertarAGGeneros 22 16 Comedia
+imprimirAGGeneros
+insertarAGGeneros 23 40 Historica
+insertarAGGeneros 23 41 Romance
+insertarAGGeneros 23 44 Historica
+insertarAGGeneros 23 48 Comedia
+insertarAGGeneros 44 100 Terror
+insertarAGGeneros 41 88 Drama
+imprimirAGGeneros
+insertarAGGeneros 100 101 Terror
+insertarAGGeneros 101 102 Historica
+imprimirAGGeneros
+liberarAGGeneros
+Fin

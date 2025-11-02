@@ -1,0 +1,59 @@
+crearColeccion
+
+crearFecha 01/09/2005
+crearLibro 999001122 "Nunca me abandones" "Kazuo" "Ishiguro" "Jóvenes clonados enfrentan su destino en un mundo distópico" 2
+agregarEnColeccion
+
+crearFecha 08/06/1949
+crearLibro 123456789 "1984" "George" "Orwell" "Un régimen totalitario controla hasta los pensamientos de sus ciudadanos" 2
+agregarEnColeccion
+
+crearFecha 29/07/1954
+crearLibro 181920212 "El señor de los anillos: La comunidad del anillo" "J.R.R." "Tolkien" "Una épica aventura para destruir un anillo de poder" 6
+agregarEnColeccion
+
+crearFecha 01/01/1869
+crearLibro 101112131 "Guerra y paz" "León" "Tolstói" "Épica historia sobre la nobleza rusa durante las guerras napoleónicas" 3
+agregarEnColeccion
+
+crearFecha 01/01/2006
+crearLibro 141516171 "Cometas en el cielo" "Khaled" "Hosseini" "Una amistad marcada por la traición en el Afganistán contemporáneo" 1
+agregarEnColeccion
+
+crearFecha 19/10/1953
+crearLibro 151617181 "Fahrenheit 451" "Ray" "Bradbury" "Un bombero quema libros en una sociedad donde leer es delito" 2
+agregarEnColeccion
+
+crearFecha 01/08/1965
+crearLibro 161718192 "Dune" "Frank" "Herbert" "Una lucha política y espiritual en el desierto del planeta Arrakis" 5
+agregarEnColeccion
+
+crearFecha 17/09/1951
+crearLibro 194512348 "Bestiario" "Julio" "Cortázar" "Siete cuentos extraños y perturbadores que exploran lo fantástico en lo cotidiano" 1
+agregarEnColeccion
+
+crearFecha 01/01/1952
+crearLibro 121314151 "El viejo y el mar" "Ernest" "Hemingway" "Un viejo pescador enfrenta al mar en una lucha silenciosa" 1
+agregarEnColeccion
+
+crearFecha 01/01/1989
+crearLibro 224512789 "El palacio de la luna" "Paul" "Auster" "Un joven cae en la pobreza y encuentra sentido en un viaje inesperado" 1
+agregarEnColeccion
+
+crearFecha 01/01/2007
+crearLibro 234567891 "El informe de Brodeck" "Philippe" "Claudel" "Un hombre escribe un informe sobre un crimen en un pueblo marcado por la posguerra" 1
+agregarEnColeccion
+
+imprimirColeccion
+
+removerDeColeccion 4
+removerDeColeccion 7
+removerDeColeccion 10
+
+imprimirColeccion
+
+imprimirLibrosGeneroColeccion 2
+
+liberarColeccion
+
+Fin

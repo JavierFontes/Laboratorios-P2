@@ -1,0 +1,37 @@
+crearColeccion
+
+crearFecha 01/01/1869
+crearLibro 101112131 "Guerra y paz" "León" "Tolstói" "Épica historia sobre la nobleza rusa durante las guerras napoleónicas" 3
+agregarEnColeccion
+
+crearFecha 01/01/2006
+crearLibro 141516171 "Cometas en el cielo" "Khaled" "Hosseini" "Una amistad marcada por la traición en el Afganistán contemporáneo" 1
+agregarEnColeccion
+
+crearFecha 19/10/1953
+crearLibro 151617181 "Fahrenheit 451" "Ray" "Bradbury" "Un bombero quema libros en una sociedad donde leer es delito" 2
+agregarEnColeccion
+
+crearFecha 01/08/1965
+crearLibro 161718192 "Dune" "Frank" "Herbert" "Una lucha política y espiritual en el desierto del planeta Arrakis" 5
+agregarEnColeccion
+
+crearFecha 17/09/1951
+crearLibro 194512348 "Bestiario" "Julio" "Cortázar" "Siete cuentos extraños y perturbadores que exploran lo fantástico en lo cotidiano" 1
+agregarEnColeccion
+
+# No hay libros para la fecha
+existenLibrosFechaColeccion 01/01/2025
+
+# Hay libro para la fecha
+existenLibrosFechaColeccion 19/10/1953
+
+# No hay libros para el género
+imprimirLibrosGeneroColeccion 13
+
+# Hay 2 libros del género 1
+imprimirLibrosGeneroColeccion 1
+
+liberarColeccion
+
+Fin

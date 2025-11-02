@@ -1,0 +1,38 @@
+crearSocio 12345678 Pedro Alfonso 4 6 2000
+imprimirCISocio
+imprimirNombreYApellidoSocio
+imprimirSocio
+imprimirFechaAltaSocio
+liberarSocio
+
+crearSocio 23429221 Luis Rodriguez 9 2 1998
+imprimirCISocio
+imprimirNombreYApellidoSocio
+imprimirSocio
+imprimirFechaAltaSocio
+liberarSocio
+
+crearSocio 98766543 Mateo Perez 29 9 1977
+imprimirCISocio
+imprimirNombreYApellidoSocio
+imprimirSocio
+imprimirFechaAltaSocio
+liberarSocio
+
+crearSocio 23429221 Jose Riquelme 6 11 1986
+imprimirCISocio
+imprimirNombreYApellidoSocio
+imprimirSocio
+imprimirFechaAltaSocio
+liberarSocio
+
+crearSocio 55549321 Leopoldo Suarez 23 1 2002
+imprimirCISocio
+imprimirNombreYApellidoSocio
+imprimirSocio
+imprimirFechaAltaSocio
+liberarSocio
+
+crearSocio 44199264 Mirian Lopez 14 7 1980
+liberarSocio
+Fin

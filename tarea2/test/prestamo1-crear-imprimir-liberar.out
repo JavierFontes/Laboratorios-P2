@@ -1,0 +1,20 @@
+1>Socio de ci 12345678 creado exitosamente.
+2>3>4>5>Préstamo de libro de isbn 411222335 a socio 12345678 creado exitosamente.
+6>Socio del préstamo:
+Socio 12345678: Jim Dear
+Fecha de alta: 10/3/2004
+Géneros favoritos: 
+7>Libro del préstamo:
+Libro 411222335
+Título: Todos los fuegos el fuego
+Autor: Julio Cortázar
+Descripción: Ocho cuentos que combinan lo cotidiano con lo fantástico
+Género: 1
+Fecha de edición: 1/1/1966
+8>Fecha de retiro del préstamo:
+8/9/2024
+9>Préstamo de libro Todos los fuegos el fuego a Jim Dear.
+8/9/2024
+No retornado
+10>Se ejecutó 'liberarTPrestamo' exitosamente.
+11>Fin.

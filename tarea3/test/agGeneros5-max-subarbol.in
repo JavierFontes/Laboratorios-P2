@@ -1,0 +1,16 @@
+crearAGGeneros
+insertarAGGeneros -1 44 Comedia
+obtenerSubarbolAGGeneros 44
+obtenerMaxAGGeneros
+insertarAGGeneros 44 17 Historica
+insertarAGGeneros 44 15 Drama
+insertarAGGeneros 17 23 Terror
+insertarAGGeneros 17 40 Comedia
+obtenerSubarbolAGGeneros 17
+obtenerMaxAGGeneros
+insertarAGGeneros 23 3 Terror
+insertarAGGeneros 15 88 Terror
+obtenerSubarbolAGGeneros 88
+obtenerMaxAGGeneros
+liberarAGGeneros
+Fin

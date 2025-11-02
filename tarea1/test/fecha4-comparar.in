@@ -1,0 +1,20 @@
+# iguales
+compararFechas 2/5/2022 2/5/2022
+
+# comparo años
+compararFechas 4/8/2021 4/8/2022
+compararFechas 5/7/2020 5/7/2018
+
+# comparo meses
+compararFechas 15/4/2024 15/7/2024
+compararFechas 20/8/2025 20/2/2025
+
+# comparo dias
+compararFechas 2/9/2024 3/9/2024
+compararFechas 3/4/2023 2/4/2023
+
+# combinados
+compararFechas 15/6/1900 15/12/2024
+compararFechas 1/1/2025 31/12/2024
+
+Fin

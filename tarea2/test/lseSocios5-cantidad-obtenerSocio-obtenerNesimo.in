@@ -1,0 +1,58 @@
+crearLSESocios
+
+# inserta primer elemento
+crearSocio 12345678 Juan Perez 18 11 2005
+agregarGeneroFavoritoSocio 1
+insertarLSESocios
+
+cantidadLSESocios
+
+obtenerSocioLSESocios 12345678
+obtenerNesimoLSESocios 1
+
+# inserta al principio
+crearSocio 23456789 Shaggy Rogers 25 02 2000
+agregarGeneroFavoritoSocio 2
+insertarLSESocios   
+
+cantidadLSESocios
+
+obtenerSocioLSESocios 23456789
+
+obtenerNesimoLSESocios 1
+obtenerNesimoLSESocios 2
+
+# inserta al final
+crearSocio 34567890 Charlie Brown 30 10 2010
+agregarGeneroFavoritoSocio 3
+insertarLSESocios   
+
+cantidadLSESocios
+
+obtenerSocioLSESocios 34567890
+
+obtenerNesimoLSESocios 1
+obtenerNesimoLSESocios 2
+obtenerNesimoLSESocios 3
+
+# empate de fechas en el medio
+crearSocio 56789012 Jim Dear 10 03 2003
+agregarGeneroFavoritoSocio 5
+insertarLSESocios
+crearSocio 67890123 Pedro Martinez 10 03 2003
+agregarGeneroFavoritoSocio 6
+insertarLSESocios   
+
+cantidadLSESocios
+
+obtenerSocioLSESocios 56789012
+obtenerSocioLSESocios 67890123
+
+obtenerNesimoLSESocios 1
+obtenerNesimoLSESocios 2
+obtenerNesimoLSESocios 3
+obtenerNesimoLSESocios 4
+obtenerNesimoLSESocios 5
+
+liberarLSESocios
+Fin

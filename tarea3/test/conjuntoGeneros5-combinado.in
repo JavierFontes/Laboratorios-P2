@@ -1,0 +1,33 @@
+crearConjuntoGeneros 10
+cardinalConjuntoGeneros
+cantMaxConjuntoGeneros
+insertarConjuntoGeneros 0
+insertarConjuntoGeneros 1
+insertarConjuntoGeneros 2
+borrarDeConjuntoGeneros 1
+insertarConjuntoGeneros 3
+insertarConjuntoGeneros 6
+insertarConjuntoGeneros 7
+borrarDeConjuntoGeneros 2
+insertarConjuntoGeneros 8
+insertarConjuntoGeneros 9
+insertarConjuntoGeneros 1
+insertarConjuntoGeneros 2
+cardinalConjuntoGeneros
+cantMaxConjuntoGeneros
+imprimirConjuntoGeneros
+unionConjuntoGeneros 5 1 3 4 5 6 
+interseccionConjuntoGeneros 5 1 3 4 5 6
+diferenciaConjuntoGeneros 5 1 3 4 5 6
+borrarDeConjuntoGeneros 1
+borrarDeConjuntoGeneros 2
+unionConjuntoGeneros 5 1 3 4 5 6 
+interseccionConjuntoGeneros 5 1 3 4 5 6
+diferenciaConjuntoGeneros 5 1 3 4 5 6
+borrarDeConjuntoGeneros 8
+borrarDeConjuntoGeneros 9
+unionConjuntoGeneros 5 1 3 4 5 6 
+interseccionConjuntoGeneros 5 1 3 4 5 6
+diferenciaConjuntoGeneros 5 1 3 4 5 6
+liberarConjuntoGeneros
+Fin

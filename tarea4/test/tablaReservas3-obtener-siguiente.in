@@ -1,0 +1,46 @@
+crearTabla 10 5
+crearSocio 12345678 Jim Dear 10 03 2004 2
+crearFecha 01/01/1966
+crearLibro 111111111 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 1
+crearReserva
+insertarEnTabla 111111111
+crearSocio 12345677 Ana Martinez 10 03 2004 4
+crearFecha 01/05/1992
+crearLibro 222222222 "Jazz" "Toni" "Morrison" "Una historia de amor y crimen en el Harlem de los años 20" 3
+crearReserva
+insertarEnTabla 222222222
+crearSocio 23456789 Lucia Perez 10 03 2010 1
+crearFecha 01/01/1961
+crearLibro 333333333 "La ratesa" "Günter" "Grass" "Una alegoría postnuclear narrada por una rata parlante que reflexiona sobre la historia" 2
+crearReserva
+insertarEnTabla 333333333
+
+obtenerDeTabla 111111111
+obtenerDeTabla 222222222
+obtenerDeTabla 333333333
+
+obtenerSigReservaDeTabla 111111111
+obtenerSigReservaDeTabla 222222222
+obtenerSigReservaDeTabla 333333333
+
+crearSocio 34567890 Juan Diaz 10 03 2005 1
+crearFecha 01/05/1992
+crearLibro 222222222 "Jazz" "Toni" "Morrison" "Una historia de amor y crimen en el Harlem de los años 20" 3
+crearReserva
+insertarEnTabla 222222222
+crearSocio 45678912 Pedro Flores 10 03 2010 3
+crearFecha 01/01/1961
+crearLibro 333333333 "La ratesa" "Günter" "Grass" "Una alegoría postnuclear narrada por una rata parlante que reflexiona sobre la historia" 2
+crearReserva
+insertarEnTabla 333333333
+
+obtenerDeTabla 111111111
+obtenerDeTabla 222222222
+obtenerDeTabla 333333333
+
+obtenerSigReservaDeTabla 111111111
+obtenerSigReservaDeTabla 222222222
+obtenerSigReservaDeTabla 333333333
+
+liberarTabla
+Fin

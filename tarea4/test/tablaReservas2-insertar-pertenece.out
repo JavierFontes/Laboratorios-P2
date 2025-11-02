@@ -1,0 +1,8 @@
+1>Tabla de reservas con cantidad estimada 10 creada.
+2>Socio de ci 12345678 creado exitosamente.
+3>4>5>Reserva de libro de isbn 111111111 a socio 12345678 creada exitosamente.
+6>Se insertó la reserva para el libro de isbn (111111111) en la tabla reservas.
+7>La reserva del socio 12345678 y libro 111111111, esta en la tabla.
+8>La reserva del socio 12345678 y libro 111111112, NO esta en la tabla.
+9>Se liberó la tabla reservas.
+10>Fin.

@@ -1,0 +1,36 @@
+crearColaReservas
+crearSocio 23456789 Lucia Perez 10 03 2010
+crearFecha 05/06/1967
+crearLibro 843760494 "Cien años de soledad" "Gabriel" "García Márquez" "La historia de la familia Buendía" 3
+crearReserva
+encolarColaReservas
+crearSocio 12345678 Jim Dear 10 03 2004
+crearFecha 01/01/1961
+crearLibro 421233446 "La ratesa" "Günter" "Grass" "Una alegoría postnuclear narrada por una rata" 2
+crearReserva
+encolarColaReservas
+imprimirColaReservas
+cantidadColaReservas
+desencolarColaReservas
+imprimirColaReservas
+frenteColaReservas
+cantidadColaReservas
+crearSocio 45678901 Juan Diaz 10 03 1999
+crearFecha 01/01/1968
+crearLibro 431244557 "Lo bello y lo triste" "Yasunari" "Kawabata" "Un escritor se reencuentra con una amante" 1
+crearReserva
+encolarColaReservas
+crearSocio 56789012 Pedro Pascal 15 08 1975
+crearFecha 01/01/1966
+crearLibro 411222335 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano" 1
+crearReserva
+encolarColaReservas
+imprimirColaReservas
+cantidadColaReservas
+desencolarColaReservas
+desencolarColaReservas
+imprimirColaReservas
+frenteColaReservas
+cantidadColaReservas
+liberarColaReservas
+Fin

@@ -1,0 +1,37 @@
+crearFecha 16/07/1951
+crearLibro 316769177 "El guardián en el centeno" "J.D." "Salinger" "Holden narra sus días tras ser expulsado del colegio, en busca de sentido" 1
+
+imprimirISBNLibro
+imprimirTituloLibro
+imprimirNombreAutorLibro 
+imprimirApellidoAutorLibro 
+imprimirDescripcionLibro 
+imprimirFechaEdicionLibro 
+imprimirIdGeneroLibro 
+liberarLibro
+
+crearFecha 01/05/1992
+crearLibro 140003446 "Jazz" "Toni" "Morrison" "Una historia de amor y crimen en el Harlem de los años 20" 3
+
+imprimirISBNLibro
+imprimirTituloLibro
+imprimirNombreAutorLibro 
+imprimirApellidoAutorLibro 
+imprimirDescripcionLibro 
+imprimirFechaEdicionLibro 
+imprimirIdGeneroLibro 
+liberarLibro
+
+crearFecha 01/01/2008
+crearLibro 880619315 "La soledad de los números primos" "Paolo" "Giordano" "Dos almas heridas incapaces de coincidir en el amor" 1
+
+imprimirISBNLibro
+imprimirTituloLibro
+imprimirNombreAutorLibro 
+imprimirApellidoAutorLibro 
+imprimirDescripcionLibro 
+imprimirFechaEdicionLibro 
+imprimirIdGeneroLibro 
+liberarLibro
+
+Fin

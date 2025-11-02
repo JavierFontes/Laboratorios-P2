@@ -1,0 +1,46 @@
+{
+  "editor.inlineSuggest.enabled": false,
+  "editor.inlineEdit.enabled": false,
+  "editor.suggest.showStatusBar": false,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.wordBasedSuggestions": "off",
+  "editor.parameterHints.enabled": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestSelection": "recentlyUsed",
+  "editor.tabCompletion": "off",
+  "github.copilot.enable": false,
+  "cursor.chat.enabled": false,
+  "cursor.composer.enabled": false,
+  "cursor.tabChat.enabled": false,
+  "aiCompletions.enabled": false,
+  "cursor.cpp.disableLanguageFeatures": true,
+  "[cpp]": {
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+      "other": "off",
+      "comments": "off",
+      "strings": "off"
+    }
+  },
+  "[c]": {
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+      "other": "off",
+      "comments": "off",
+      "strings": "off"
+    }
+  },
+  "editor.inlineSuggest.edits.showCollapsed": false,
+  "editor.suggest.preview": false,
+  "editor.inlayHints.enabled": "off",
+  "editor.suggest.showInlineDetails": false,
+  "editor.wordBasedSuggestionsMode": "off",
+  "editor.snippetSuggestions": "none",
+  "cursor.inlineSuggestions.enabled": false
+}

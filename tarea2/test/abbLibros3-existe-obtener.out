@@ -1,0 +1,38 @@
+1>Se ejecutó crearTABBLibrosVacio exitosamente.
+2>3>4>Se insertó el libro con ISBN 999001122 al árbol.
+5>6>7>Se insertó el libro con ISBN 316769177 al árbol.
+8>9>10>Se insertó el libro con ISBN 204578912 al árbol.
+11>12>13>Se insertó el libro con ISBN 140003446 al árbol.
+14>#  No existen.
+15>El libro con ISBN 171819202 NO pertenece al árbol.
+16>El libro con ISBN 843397030 NO pertenece al árbol.
+17>#  Existen.
+18>El libro con ISBN 140003446 pertenece al árbol.
+19>El libro con ISBN 204578912 pertenece al árbol.
+20>El libro con ISBN 316769177 pertenece al árbol.
+21>El libro con ISBN 999001122 pertenece al árbol.
+22>Libro 140003446
+Título: Jazz
+Autor: Toni Morrison
+Descripción: Una historia de amor y crimen en el Harlem de los años 20
+Género: 3
+Fecha de edición: 1/5/1992
+23>Libro 316769177
+Título: El guardián en el centeno
+Autor: J.D. Salinger
+Descripción: Holden narra sus días tras ser expulsado del colegio, en busca de sentido
+Género: 1
+Fecha de edición: 16/7/1951
+24>Libro 999001122
+Título: Nunca me abandones
+Autor: Kazuo Ishiguro
+Descripción: Jóvenes clonados enfrentan su destino en un mundo distópico
+Género: 2
+Fecha de edición: 1/9/2005
+25>Libro 204578912
+Título: Las venas abiertas de América Latina
+Autor: Eduardo Galeano
+Descripción: Un ensayo crítico sobre la historia de la explotación en América Latina
+Género: 7
+Fecha de edición: 1/1/1971
+26>27>Fin.

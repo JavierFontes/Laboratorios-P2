@@ -1,0 +1,41 @@
+# Crear lista de socios vacia
+crearLSESocios
+esVaciaLSESocios
+
+# Creo e inserto socio
+crearSocio 34567890 Carolina Martínez 28 11 1972
+insertarLSESocios 
+
+# Creo e inserto socio
+crearSocio 45678901 Diego Silva 30 03 1990
+insertarLSESocios
+
+# Creo e inserto socio
+crearSocio 56789012 Laura Pérez 31 08 1933
+insertarLSESocios
+
+# Creo socio con 3 generos favoritos y lo agrego a la lista
+crearSocio 48483848 Camilo Camas 11 05 1994
+agregarGeneroFavoritoSocio 1
+agregarGeneroFavoritoSocio 2
+agregarGeneroFavoritoSocio 3
+insertarLSESocios
+
+# Se imprime la lista de socios 
+imprimirLSESocios
+
+# Se remueven dos socios de la lista y se verifica que no es vacía
+removerSocioLSESocios 48483848
+removerSocioLSESocios 56789012
+esVaciaLSESocios
+
+# Se verifica que no existe un socio removido
+existeSocioLSESocios 56789012
+# Se verifica que existe socio
+existeSocioLSESocios 34567890
+# Se verifica que existe socio
+existeSocioLSESocios 45678901
+
+liberarLSESocios
+
+Fin

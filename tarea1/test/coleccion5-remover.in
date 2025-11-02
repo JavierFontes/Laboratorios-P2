@@ -1,0 +1,39 @@
+crearColeccion
+
+crearFecha 01/01/1952
+crearLibro 121314151 "El viejo y el mar" "Ernest" "Hemingway" "Un viejo pescador enfrenta al mar en una lucha silenciosa" 1
+agregarEnColeccion
+
+crearFecha 01/01/1989
+crearLibro 224512789 "El palacio de la luna" "Paul" "Auster" "Un joven cae en la pobreza y encuentra sentido en un viaje inesperado" 1
+agregarEnColeccion
+
+crearFecha 01/01/2007
+crearLibro 234567891 "El informe de Brodeck" "Philippe" "Claudel" "Un hombre escribe un informe sobre un crimen en un pueblo marcado por la posguerra" 1
+agregarEnColeccion
+
+crearFecha 05/06/1967
+crearLibro 843760494 "Cien años de soledad" "Gabriel" "García Márquez" "Es la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo" 3
+agregarEnColeccion
+
+crearFecha 01/09/1987
+crearLibro 843397380 "Tokio Blues" "Haruki" "Murakami" "Un joven recuerda su vida universitaria marcada por la pérdida y el amor" 1
+agregarEnColeccion
+
+imprimirColeccion
+
+removerDeColeccion 2
+
+imprimirColeccion
+
+removerDeColeccion 5
+
+imprimirColeccion
+
+removerDeColeccion 1
+
+imprimirColeccion
+
+liberarColeccion
+
+Fin

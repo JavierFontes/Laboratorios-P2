@@ -1,0 +1,43 @@
+1>#  Crear lista de socios vacia.
+2>Se ejecutó crearTLSESocios exitosamente.
+3>La lista de socios es vacía.
+4>#  Creo e inserto socio.
+5>Socio de ci 34567890 creado exitosamente.
+6>Socio de CI 34567890 agregado a la lista de socios de forma exitosa.
+7>#  Creo e inserto socio.
+8>Socio de ci 45678901 creado exitosamente.
+9>Socio de CI 45678901 agregado a la lista de socios de forma exitosa.
+10>#  Creo e inserto socio.
+11>Socio de ci 56789012 creado exitosamente.
+12>Socio de CI 56789012 agregado a la lista de socios de forma exitosa.
+13>#  Creo socio con 3 generos favoritos y lo agrego a la lista.
+14>Socio de ci 48483848 creado exitosamente.
+15>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 1 exitosamente.
+16>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 2 exitosamente.
+17>Se ejecutó 'agregarGeneroFavoritoTSocio' con idGenero 3 exitosamente.
+18>Socio de CI 48483848 agregado a la lista de socios de forma exitosa.
+19>#  Se imprime la lista de socios .
+20>Lista de Socios:
+Socio 56789012: Laura Pérez
+Fecha de alta: 31/8/1933
+Géneros favoritos: 
+Socio 34567890: Carolina Martínez
+Fecha de alta: 28/11/1972
+Géneros favoritos: 
+Socio 45678901: Diego Silva
+Fecha de alta: 30/3/1990
+Géneros favoritos: 
+Socio 48483848: Camilo Camas
+Fecha de alta: 11/5/1994
+Géneros favoritos: 1 2 3 
+21>#  Se remueven dos socios de la lista y se verifica que no es vacía.
+22>Se removió el socio de CI 48483848 de la lista.
+23>Se removió el socio de CI 56789012 de la lista.
+24>La lista de socios NO es vacía.
+25>#  Se verifica que no existe un socio removido.
+26>El socio de CI 56789012 NO pertenece a la lista.
+27>#  Se verifica que existe socio.
+28>El socio de CI 34567890 pertenece a la lista.
+29>#  Se verifica que existe socio.
+30>El socio de CI 45678901 pertenece a la lista.
+31>32>Fin.

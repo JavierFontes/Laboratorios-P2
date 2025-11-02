@@ -1,0 +1,27 @@
+crearColeccion
+
+crearFecha 01/01/1993
+crearLibro 214589721 "Las aventuras del sapo Ruperto" "Roy" "Berocay" "Un simpático sapo uruguayo vive divertidas y valientes aventuras" 9
+agregarEnColeccion
+
+crearFecha 01/09/2005
+crearLibro 999001122 "Nunca me abandones" "Kazuo" "Ishiguro" "Jóvenes clonados enfrentan su destino en un mundo distópico" 2
+agregarEnColeccion
+
+crearFecha 08/06/1949
+crearLibro 123456789 "1984" "George" "Orwell" "Un régimen totalitario controla hasta los pensamientos de sus ciudadanos" 2
+agregarEnColeccion
+
+crearFecha 29/07/1954
+crearLibro 181920212 "El señor de los anillos: La comunidad del anillo" "J.R.R." "Tolkien" "Una épica aventura para destruir un anillo de poder" 6
+agregarEnColeccion
+
+estaEnColeccion 5
+estaEnColeccion 214589721
+estaEnColeccion 111111111
+estaEnColeccion 999001122
+
+obtenerDeColeccion 214589721
+
+liberarColeccion
+Fin

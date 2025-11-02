@@ -1,0 +1,28 @@
+crearBiblioteca
+crearSocio 111 Ana Garcia 01 01 2000
+agregarSocioBiblioteca
+crearSocio 222 Bruno Fernandez 02 02 2001
+agregarSocioBiblioteca
+crearSocio 333 Carla Rodriguez 03 03 2002
+agregarSocioBiblioteca
+crearSocio 444 Daniel Lopez 04 04 2003
+agregarSocioBiblioteca
+crearFecha 01/01/1949
+crearLibro 1001 "El Aleph" "Jorge Luis" "Borges" "Coleccion de cuentos" 1
+agregarLibroBiblioteca
+crearFecha 01/01/1944
+crearLibro 1002 "Ficciones" "Jorge Luis" "Borges" "Otra coleccion de cuentos" 1
+agregarLibroBiblioteca
+crearFecha 01/09/2025
+prestarLibroBiblioteca 111 1001
+crearFecha 02/09/2025
+prestarLibroBiblioteca 222 1002
+imprimirPrestamosBiblioteca
+reservarLibroBiblioteca 222 1001
+imprimirReservasBiblioteca
+crearFecha 15/09/2025
+devolverLibroBiblioteca 111 1001 01/09/2025
+imprimirPrestamosBiblioteca
+imprimirReservasBiblioteca
+liberarBiblioteca
+Fin

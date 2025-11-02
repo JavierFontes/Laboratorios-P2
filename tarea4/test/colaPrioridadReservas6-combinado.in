@@ -1,0 +1,60 @@
+crearCP 10
+esVaciaCP
+crearSocio 12345678 Jim Dear 10 03 2004 2
+crearFecha 01/01/1966
+crearLibro 411222335 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 1
+crearReserva
+insertarEnCP
+esVaciaCP
+prioritarioCP
+estaEnCP 12345678 411222335
+estaEnCP 12345677 411222335
+eliminarPrioritarioCP
+esVaciaCP
+crearSocio 12345678 Jim Dear 10 03 2004 2
+crearFecha 01/01/1966
+crearLibro 411222335 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 1
+crearReserva
+insertarEnCP
+crearSocio 12345677 Ana Martinez 10 03 2004 1
+crearFecha 01/01/1966
+crearLibro 411222335 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 1
+crearReserva
+insertarEnCP
+prioritarioCP
+estaEnCP 12345677 411222335
+imprimirCP
+crearSocio 12345679 Pedro Perez 10 03 2004 3
+crearFecha 01/01/1966
+crearLibro 411222335 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 1
+crearReserva
+insertarEnCP
+crearSocio 23456789 Julio Garcia 10 03 2004 4
+crearFecha 01/01/1966
+crearLibro 411222335 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 1
+crearReserva
+insertarEnCP
+crearSocio 34567891 Lucia Perez 10 03 2010 6
+crearFecha 01/01/1966
+crearLibro 411222335 "Todos los fuegos el fuego" "Julio" "Cortázar" "Ocho cuentos que combinan lo cotidiano con lo fantástico" 1
+crearReserva
+insertarEnCP
+imprimirCP
+invertirPrioCP
+imprimirCP
+copiarCP
+invertirPrioCP
+prioritarioCP
+eliminarPrioritarioCP
+prioritarioCP
+eliminarPrioritarioCP
+prioritarioCP
+eliminarPrioritarioCP
+prioritarioCP
+eliminarPrioritarioCP
+prioritarioCP
+esVaciaCP
+eliminarPrioritarioCP
+esVaciaCP
+liberarCP
+Fin

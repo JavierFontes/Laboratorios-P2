@@ -1,0 +1,37 @@
+1>Se ejecutó 'crearTAGGeneros' exitosamente.
+2>El género de id 2 NO está incluído en el árbol de géneros.
+3>La altura de del árbol general es: 0.
+4>Existen 0 géneros en el árbol de géneros.
+5>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre -1 e idGenero 44.
+6>El género de id 17 NO está incluído en el árbol de géneros.
+7>El género de id 44 está incluído en el árbol de géneros.
+8>El género de id 32 NO está incluído en el árbol de géneros.
+9>La altura de del árbol general es: 1.
+10>Existen 1 géneros en el árbol de géneros.
+11>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 44 e idGenero 17.
+12>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 44 e idGenero 15.
+13>La altura de del árbol general es: 2.
+14>Existen 3 géneros en el árbol de géneros.
+15>El género de id 17 está incluído en el árbol de géneros.
+16>El género de id 44 está incluído en el árbol de géneros.
+17>El género de id 32 NO está incluído en el árbol de géneros.
+18>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 17 e idGenero 18.
+19>La altura de del árbol general es: 3.
+20>Existen 4 géneros en el árbol de géneros.
+21>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 15 e idGenero 105.
+22>La altura de del árbol general es: 3.
+23>Existen 5 géneros en el árbol de géneros.
+24>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 105 e idGenero 106.
+25>La altura de del árbol general es: 4.
+26>Existen 6 géneros en el árbol de géneros.
+27>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 106 e idGenero 107.
+28>La altura de del árbol general es: 5.
+29>Existen 7 géneros en el árbol de géneros.
+30>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 107 e idGenero 108.
+31>La altura de del árbol general es: 6.
+32>Existen 8 géneros en el árbol de géneros.
+33>Se ejecutó 'insertarGeneroTAGGeneros' con idGeneroPadre 108 e idGenero 109.
+34>La altura de del árbol general es: 7.
+35>Existen 9 géneros en el árbol de géneros.
+36>Se ejecutó 'liberarTAGGeneros' exitosamente.
+37>Fin.

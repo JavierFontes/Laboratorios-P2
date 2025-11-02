@@ -1,0 +1,65 @@
+crearColeccion
+
+crearFecha 01/01/1987
+crearLibro 361177880 "Beloved" "Toni" "Morrison" "Una esclava liberada es perseguida por el fantasma de su hija muerta" 1
+agregarEnColeccion
+
+crearFecha 01/01/1999
+crearLibro 381199002 "Desgracia" "J.M." "Coetzee" "Un profesor sudafricano cae en desgracia y enfrenta una realidad post-apartheid" 1
+agregarEnColeccion
+
+crearFecha 01/01/2002
+crearLibro 351166779 "Kafka en la orilla" "Haruki" "Murakami" "Dos historias paralelas entrelazadas por lo onírico, la soledad y la identidad" 1
+agregarEnColeccion
+
+crearFecha 01/01/1951
+crearLibro 341155668 "El hombre ilustrado" "Ray" "Bradbury" "Cuentos de ciencia ficción unidos por los tatuajes animados de un misterioso hombre" 5
+agregarEnColeccion
+
+crearFecha 11/11/1954
+crearLibro 331144557 "Las dos torres" "J.R.R." "Tolkien" "La comunidad del anillo se divide y continúa su lucha contra el poder oscuro" 6
+agregarEnColeccion
+
+crearFecha 01/01/1983
+crearLibro 301112345 "La pianista" "Elfriede" "Jelinek" "Una profesora de piano vive una vida reprimida bajo el dominio de su madre" 1
+agregarEnColeccion
+
+crearFecha 01/01/1989
+crearLibro 391200113 "Los restos del día" "Kazuo" "Ishiguro" "Un mayordomo rememora su vida y su lealtad ciega durante entreguerras" 1
+agregarEnColeccion
+
+crearFecha 01/08/1965
+crearLibro 161718192 "Dune" "Frank" "Herbert" "Una lucha política y espiritual en el desierto del planeta Arrakis" 5
+agregarEnColeccion
+
+crearFecha 01/09/1977
+crearLibro 311122335 "El resplandor" "Stephen" "King" "Una familia se aísla en un hotel donde fuerzas sobrenaturales influyen en la mente del padre" 2
+agregarEnColeccion
+
+crearFecha 02/07/1998
+crearLibro 321133446 "Harry Potter y la cámara secreta" "J.K." "Rowling" "Harry regresa a Hogwarts y enfrenta el misterio de una cámara oculta" 6
+agregarEnColeccion
+
+crearFecha 01/01/2003
+crearLibro 371188991 "La noche del oráculo" "Paul" "Auster" "Un escritor se obsesiona con una historia que parece volverse real" 1
+agregarEnColeccion
+
+crearFecha 01/01/1990
+crearLibro 401211224 "Una cuestión personal" "Kenzaburō" "Ōe" "Un joven enfrenta el dilema moral de tener un hijo con daño cerebral" 1
+agregarEnColeccion
+
+imprimirColeccion
+
+removerDeColeccion 3
+removerDeColeccion 7
+removerDeColeccion 10
+
+imprimirColeccion
+
+imprimirLibrosGeneroColeccion 1
+
+imprimirLibrosGeneroColeccion 17
+
+liberarColeccion
+
+Fin

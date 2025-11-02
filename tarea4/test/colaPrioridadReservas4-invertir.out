@@ -1,0 +1,24 @@
+1>Se creó una cola de prioridad de reservas con cantidad maxima 5
+2>Socio de ci 12345678 creado exitosamente.
+3>4>5>Reserva de libro de isbn 411222335 a socio 12345678 creada exitosamente.
+6>Se insertó la reserva en la cola de prioridad.
+7>Reserva de libro Todos los fuegos el fuego por Jim Dear.
+8>Se invirtió la prioridad de la cola de prioridad de reservas
+9>Reserva de libro Todos los fuegos el fuego por Jim Dear.
+10>Se invirtió la prioridad de la cola de prioridad de reservas
+11>Socio de ci 12345677 creado exitosamente.
+12>13>14>Reserva de libro de isbn 411222335 a socio 12345677 creada exitosamente.
+15>Se insertó la reserva en la cola de prioridad.
+16>Socio de ci 12345679 creado exitosamente.
+17>18>19>Reserva de libro de isbn 411222335 a socio 12345679 creada exitosamente.
+20>Se insertó la reserva en la cola de prioridad.
+21>Socio de ci 23456789 creado exitosamente.
+22>23>24>Reserva de libro de isbn 411222335 a socio 23456789 creada exitosamente.
+25>Se insertó la reserva en la cola de prioridad.
+26>Reserva de libro Todos los fuegos el fuego por Ana Martinez.
+27>Se invirtió la prioridad de la cola de prioridad de reservas
+28>Reserva de libro Todos los fuegos el fuego por Julio Garcia.
+29>Se invirtió la prioridad de la cola de prioridad de reservas
+30>Reserva de libro Todos los fuegos el fuego por Ana Martinez.
+31>Se liberó la cola de prioridad de reservas
+32>Fin.

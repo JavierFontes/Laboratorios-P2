@@ -1,0 +1,6 @@
+crearFecha 01/10/1995
+crearLibro 843397030 "Ensayo sobre la ceguera" "José" "Saramago" "Una epidemia de ceguera azota a una ciudad, revelando lo peor del ser humano" 2
+
+copiarLibro
+liberarLibro
+Fin

@@ -1,0 +1,142 @@
+1>#  Creo ABBLibros vacío.
+2>Se ejecutó crearTABBLibrosVacio exitosamente.
+3>#  Agrego 19 Libros.
+4>5>6>Se insertó el libro con ISBN 15 al árbol.
+7>8>9>Se insertó el libro con ISBN 10 al árbol.
+10>11>12>Se insertó el libro con ISBN 5 al árbol.
+13>14>15>Se insertó el libro con ISBN 1 al árbol.
+16>17>18>Se insertó el libro con ISBN 11 al árbol.
+19>20>21>Se insertó el libro con ISBN 20 al árbol.
+22>23>24>Se insertó el libro con ISBN 8 al árbol.
+25>26>27>Se insertó el libro con ISBN 17 al árbol.
+28>29>30>Se insertó el libro con ISBN 3 al árbol.
+31>32>33>Se insertó el libro con ISBN 13 al árbol.
+34>35>36>Se insertó el libro con ISBN 18 al árbol.
+37>38>39>Se insertó el libro con ISBN 21 al árbol.
+40>41>42>Se insertó el libro con ISBN 19 al árbol.
+43>44>45>Se insertó el libro con ISBN 6 al árbol.
+46>47>48>Se insertó el libro con ISBN 30 al árbol.
+49>50>51>Se insertó el libro con ISBN 32 al árbol.
+52>53>54>Se insertó el libro con ISBN 26 al árbol.
+55>56>57>Se insertó el libro con ISBN 12 al árbol.
+58>59>60>Se insertó el libro con ISBN 37 al árbol.
+61>#  0 elementos.
+62>63>#  10 elementos.
+64>Libro 6
+Título: 1984
+Autor: George Orwell
+Descripción: Un régimen totalitario controla hasta los pensamientos de sus ciudadanos
+Género: 2
+Fecha de edición: 1/1/1999
+Libro 12
+Título: El palacio de la luna
+Autor: Paul Auster
+Descripción: Un joven cae en la pobreza y encuentra sentido en un viaje inesperado
+Género: 2
+Fecha de edición: 1/1/1999
+Libro 18
+Título: Todos los fuegos el fuego
+Autor: Julio Cortázar
+Descripción: Ocho cuentos que combinan lo cotidiano con lo fantástico
+Género: 2
+Fecha de edición: 1/1/1999
+Libro 19
+Título: Tokio Blues
+Autor: Haruki Murakami
+Descripción: Un joven recuerda su vida universitaria marcada por la pérdida y el amor
+Género: 2
+Fecha de edición: 1/1/1999
+Libro 20
+Título: Fahrenheit 451
+Autor: Ray Bradbury
+Descripción: Un bombero quema libros en una sociedad donde leer es delito
+Género: 2
+Fecha de edición: 19/10/1953
+Libro 21
+Título: La ratesa
+Autor: Günter Grass
+Descripción: Una alegoría postnuclear narrada por una rata parlante que reflexiona sobre la historia
+Género: 2
+Fecha de edición: 1/1/1999
+Libro 26
+Título: Cometas en el cielo
+Autor: Khaled Hosseini
+Descripción: Una amistad marcada por la traición en el Afganistán contemporáneo
+Género: 2
+Fecha de edición: 1/1/1999
+Libro 30
+Título: Guerra y paz
+Autor: León Tolstói
+Descripción: Épica historia sobre la nobleza rusa durante las guerras napoleónicas
+Género: 2
+Fecha de edición: 1/1/1999
+Libro 32
+Título: Carrie
+Autor: Stephen King
+Descripción: Una adolescente con poderes telequinéticos enfrenta el abuso y el horror
+Género: 2
+Fecha de edición: 1/1/1999
+Libro 37
+Título: Kafka en la orilla
+Autor: Haruki Murakami
+Descripción: Dos historias paralelas entrelazadas por lo onírico, la soledad y la identidad
+Género: 2
+Fecha de edición: 1/1/1999
+65>#  5 elementos.
+66>Libro 3
+Título: Beloved
+Autor: Toni Morrison
+Descripción: Una esclava liberada es perseguida por el fantasma de su hija muerta
+Género: 1
+Fecha de edición: 1/1/1987
+Libro 8
+Título: El viejo y el mar
+Autor: Ernest Hemingway
+Descripción: Un viejo pescador enfrenta al mar en una lucha silenciosa
+Género: 1
+Fecha de edición: 1/1/1952
+Libro 11
+Título: La soledad de los números primos
+Autor: Paolo Giordano
+Descripción: Dos almas heridas incapaces de coincidir en el amor
+Género: 1
+Fecha de edición: 1/1/2008
+Libro 13
+Título: Desgracia
+Autor: J.M. Coetzee
+Descripción: Un profesor sudafricano cae en desgracia y enfrenta una realidad post-apartheid
+Género: 1
+Fecha de edición: 1/1/1999
+Libro 17
+Título: El palacio de la luna
+Autor: Paul Auster
+Descripción: Un joven cae en la pobreza y encuentra sentido en un viaje inesperado
+Género: 1
+Fecha de edición: 1/1/1989
+67>#  1 elementos.
+68>Libro 5
+Título: Harry Potter y la piedra filosofal
+Autor: J.K. Rowling
+Descripción: Un niño mago descubre su destino en la escuela Hogwarts
+Género: 6
+Fecha de edición: 26/6/1997
+69>#  3 elementos.
+70>Libro 1
+Título: Juventud
+Autor: J.M. Coetzee
+Descripción: Un joven sudafricano busca sentido en su vida y vocación en Londres
+Género: 3
+Fecha de edición: 1/1/2002
+Libro 10
+Título: Nunca me abandones
+Autor: Kazuo Ishiguro
+Descripción: Jóvenes clonados enfrentan su destino en un mundo distópico
+Género: 3
+Fecha de edición: 1/1/1971
+Libro 15
+Título: Jazz
+Autor: Toni Morrison
+Descripción: Una historia de amor y crimen en el Harlem de los años 20
+Género: 3
+Fecha de edición: 1/5/1992
+71>72>Fin.

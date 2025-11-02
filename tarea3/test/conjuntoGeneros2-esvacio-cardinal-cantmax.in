@@ -1,0 +1,23 @@
+crearConjuntoGeneros 2
+esVacioConjuntoGeneros
+cardinalConjuntoGeneros
+cantMaxConjuntoGeneros
+insertarConjuntoGeneros 0
+esVacioConjuntoGeneros
+cardinalConjuntoGeneros
+cantMaxConjuntoGeneros
+insertarConjuntoGeneros 4
+esVacioConjuntoGeneros
+cardinalConjuntoGeneros
+cantMaxConjuntoGeneros
+insertarConjuntoGeneros 1
+esVacioConjuntoGeneros
+cardinalConjuntoGeneros
+cantMaxConjuntoGeneros
+insertarConjuntoGeneros 1
+insertarConjuntoGeneros 0
+esVacioConjuntoGeneros
+cardinalConjuntoGeneros
+cantMaxConjuntoGeneros
+liberarConjuntoGeneros
+Fin
