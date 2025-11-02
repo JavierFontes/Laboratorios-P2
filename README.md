@@ -1,5 +1,8 @@
 # Laboratorios-P2
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 Las 4 tareas completas con todos los tests correctos. (No están incluidos los casos privados)
 
 ## TAREA 1
